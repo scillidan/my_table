@@ -19,7 +19,7 @@ rename           | 11  | Extended functionality for F2                          
 copy             | 11  | FastCopy - How to Integrate or Install It                                                        | https://resource.dopus.com/t/fastcopy-how-to-integrate-or-install-it-integration-use-commands/35158
 copy             | 00  | FastCopy Buttons & Drop Menu                                                                     | https://resource.dopus.com/t/fastcopy-buttons-drop-menu/9351
 copy             | 00  | CopyRecreatePath (Recreate paths for archive files)                                              | https://resource.dopus.com/t/copyrecreatepath-recreate-paths-for-archive-files/51431
-compress         | 001 | Folder packer+                                                                                   | https://resource.dopus.com/t/folder-packer/48891
+compress         | 01  | Folder packer+                                                                                   | https://resource.dopus.com/t/folder-packer/48891
 decompress       | 10  | Smart archive extraction                                                                         | https://resource.dopus.com/t/smart-archive-extraction-enhanced/40637
 decompress,3rd   | 11  | SmartZip                                                                                         | https://github.com/vvyoko/SmartZip
 metadata         | 11  | Photo Exif                                                                                       | https://resource.dopus.com/t/photo-exif/35015
@@ -32,7 +32,7 @@ image            | 11  | Button - Crop Image Fixed Ratio                        
 image            | 00  | Resize image                                                                                     | https://resource.dopus.com/t/resize-image/49090
 clipboard        | 00  | Paste URL from clipboard as .url file                                                            | https://resource.dopus.com/t/paste-url-from-clipboard-as-url-file/44678
 download         | 00  | Download file from clipboard URL directly to folder                                              | https://resource.dopus.com/t/download-file-from-clipboard-url-directly-to-folder/44679
-layout           | 001 | Cycle through Layouts                                                                            | https://resource.dopus.com/t/cycle-through-layouts/51223
+layout           | 01  | Cycle through Layouts                                                                            | https://resource.dopus.com/t/cycle-through-layouts/51223
 preview          | 00  | MOSViewer                                                                                        | https://github.com/mrfearless/MOSViewer
 preview,3rd      | 00  | QuickLook                                                                                        | https://github.com/QL-Win/QuickLook
 preview,3rd      | 00  | Available Plugins                                                                                | https://github.com/QL-Win/QuickLook/wiki/Available-Plugins
@@ -44,4 +44,4 @@ shell-x          | 11  | Shell-X                                                
 shell-x          | 00  | VirusTotal CLI                                                                                   | https://github.com/VirusTotal/vt-cli
 context-menu,3rd | 00  | SendTo Menu Editor                                                                               | https://www.sordum.org/10830/sendto-menu-editor-v1-3
 project          | 00  | Current Projects buttons (+hotkeys)                                                              | https://resource.dopus.com/t/current-projects-buttons-hotkeys/48908
-git              | 001 | Open Remote URL for git repositories                                                             | https://resource.dopus.com/t/open-remote-url-for-git-repositories/49447/1
+git              | 01  | Open Remote URL for git repositories                                                             | https://resource.dopus.com/t/open-remote-url-for-git-repositories/49447/1

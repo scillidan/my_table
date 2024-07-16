@@ -125,3 +125,4 @@ export           | 001 | sd-webui-compress                                      
 3rd              | 00  | VideoReTalking                                               | https://github.com/OpenTalker/video-retalking
 3rd              | 00  | Rerender_A_Video                                             | https://github.com/williamyang1991/Rerender_A_Video
 3rd              | 00  | Text generation web UI                                       | https://github.com/oobabooga/text-generation-webui
+3rd              | 00  | LivePortrait                                                 | https://github.com/KwaiVGI/LivePortrait

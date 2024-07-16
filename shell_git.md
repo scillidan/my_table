@@ -20,7 +20,7 @@ tool,data     | 00  | GitRows                      | https://gitrows.com
 tool,notify   | 00  | Gitify                       | https://www.gitify.io
 dev,print     | 00  | git-notify                   | https://github.com/jevakallio/git-notify
 dev,commit    | 10  | commitizen                   | https://github.com/commitizen-tools/commitizen
-commit        | 001 | Branchless workflow for Git  | https://github.com/arxanas/git-branchless
+commit        | 01  | Branchless workflow for Git  | https://github.com/arxanas/git-branchless
 action        | 00  | GitHub Actions Runner Images | https://github.com/actions/runner-images
 action        | 10  | act                          | https://github.com/nektos/act
 gh            | 00  | GitHub CLI                   | https://cli.github.com

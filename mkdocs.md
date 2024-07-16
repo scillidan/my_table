@@ -11,13 +11,13 @@ codeblock  | 00  | MkDocs Pseudocode Plugin                               | http
 image      | 11  | MkDocs GLightbox                                       | https://github.com/blueswen/mkdocs-glightbox
 image      | 00  | Lightgallery markdown Extension                        | https://github.com/g-provost/lightgallery-markdown
 image      | 00  | Lightgallery markdown Extension                        | https://github.com/g-provost/lightgallery-markdown
-image      | 01  | Mkdocs Plugin to inline SVGs                           | https://github.com/temperlang/svg-inline-mkdocs-plugin
+image      | 00  | Mkdocs Plugin to inline SVGs                           | https://github.com/temperlang/svg-inline-mkdocs-plugin
 image      | 00  | markdown_captions                                      | https://github.com/Evidlo/markdown_captions
 image      | 00  | MkDocs Resize Images Plugin                            | https://github.com/JakubAndrysek/mkdocs-resize-images
 image      | 00  | Image-formatter                                        | https://github.com/ASypula/mkdocs-image-formatter-plugin
 audio      | 00  | MkDocs Audio                                           | https://github.com/jfcmontmorency/mkdocs-audio
 video      | 11  | MkDocs Video                                           | https://github.com/soulless-viewer/mkdocs-video
-video      | 001 | mkdocs-asciinema-player                                | https://github.com/pa-decarvalho/mkdocs-asciinema-player
+video      | 01  | mkdocs-asciinema-player                                | https://github.com/pa-decarvalho/mkdocs-asciinema-player
 list       | 11  | Mdx Truly Sane Lists                                   | https://github.com/radude/mdx_truly_sane_lists
 list       | 11  | Breakless Lists Markdown Extension                     | https://github.com/adamb70/mdx-breakless-lists
 list       | 00  | mkdocs-extract-listings-plugin                         | https://github.com/six-two/mkdocs-extract-listings-plugin

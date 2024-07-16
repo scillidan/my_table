@@ -24,7 +24,7 @@ search   | 00  | Keypirinha-Plugin-Ditto               | https://github.com/tute
 search   | 00  | keypirinha-chocolatey                 | https://github.com/dufferzafar/keypirinha-chocolatey
 search   | 10  | Keypirinha Plugin: MovieDB            | https://github.com/Fuhrmann/keypirinha-moviedb
 document | 11  | Keypirinha-Zealous                    | https://github.com/bantya/Keypirinha-Zealous
-document | 01  | keypirinha-devdocs                    | https://github.com/theZetrax/keypirinha-devdocs
+document | 000 | keypirinha-devdocs                    | https://github.com/theZetrax/keypirinha-devdocs
 game     | 10  | Keypirinha Plugin: Steam              | https://github.com/EhsanKia/keypirinha-plugins/tree/master/keypirinha-steam
 game     | 00  | keypirinha-allmygames                 | https://github.com/TanninOne/keypirinha-allmygames
 game     | 00  | keypirinha-Playnite                   | https://github.com/SomeoneIsWorking/keypirinha-Playnite

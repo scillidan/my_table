@@ -8,7 +8,7 @@ player     | 00  | TiMidity++             | http://timidity.sourceforge.net
 player,sfz | 00  | sforzando              | https://www.plogue.com/products/sforzando.html
 editor     | 01  | OpenMPT                | https://openmpt.org
 editor     | 00  | LMMS                   | https://lmms.io
-editor     | 01  | QasarBeach             | https://adamstrange.itch.io/qasarbeach
+editor     | 00  | QasarBeach             | https://adamstrange.itch.io/qasarbeach
 editor,nes | 00  | FamiStudio             | https://github.com/BleuBleu/FamiStudio
 sheet      | 00  | LilyPond               | http://lilypond.org/index.html
 sheet      | 00  | Frescobaldi            | https://frescobaldi.org

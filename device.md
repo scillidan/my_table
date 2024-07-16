@@ -52,6 +52,7 @@ cam           | 001 | VidGear                                      | https://git
 cam           | 001 | Norfair                                      | https://github.com/tryolabs/norfair
 cam           | 001 | Argos                                        | https://github.com/angadsingh/argos
 cam           | 001 | Frigate                                      | https://github.com/blakeblackshear/frigate
+keyboard      | 00  | rafaelromao's keyboard layout                | https://github.com/rafaelromao/keyboards
 keyboard      | 00  | kbd-audio                                    | https://github.com/ggerganov/kbd-audio
 audio         | 00  | Whishper                                     | https://github.com/pluja/whishper
 bot           | 00  | RoboRoach                                    | https://github.com/BackyardBrains/RoboRoach
@@ -89,7 +90,7 @@ password      | 00  | QtPass                                       | https://git
 journal       | 00  | Caps-Log                                     | https://github.com/NikolaDucak/caps-log
 ime           | 00  | wlpinyin                                     | https://github.com/xhebox/wlpinyin
 dns           | 00  | Pi-hole                                      | https://github.com/pi-hole/pi-hole
-game          | 01  | Lakka                                        | https://www.lakka.tv
+game          | 00  | Lakka                                        | https://www.lakka.tv
 game          | 00  | RetroPie-Setup                               | https://github.com/RetroPie/RetroPie-Setup
 wine          | 00  | Photoshop CC v19 installer for Linux         | https://github.com/Gictorbit/photoshopCClinux
 ai            | 00  | Pi-C.A.R.D                                   | https://github.com/nkasmanoff/pi-card
@@ -101,13 +102,13 @@ ucon,sway     | 00  | uConsole Sway Configuration                  | https://git
 ucon,i3       | 00  | Uconsole-i3                                  | https://github.com/dzaczek/Uconsole-i3
 cb1,source    | 00  | CB1                                          | https://github.com/bigtreetech/CB1
 cb1,setup     | 00  | CB1-setup                                    | https://github.com/ToyVo/CB1-setup
-cb1,setup     | 01  | Debian Build for Biqu/BTT CB1                | https://github.com/freakydude/cb1-os-build
+cb1,setup     | 00  | Debian Build for Biqu/BTT CB1                | https://github.com/freakydude/cb1-os-build
 cb1,drive     | 00  | CB1 3d Acceleration running Armbian Bookworm | https://gist.github.com/adelyser/4e31409cd9c99ba4cb78a31fa9d12bb1
 cb1,os        | 00  | GameShell                                    | https://forum.clockworkpi.com/t/armbian-build-system-with-clockwork-gameshell-support/11995
 cb1,os        | 00  | armbian-build                                | https://github.com/uberlinuxguy/armbian-build
 cb1,os        | 00  | RatOS-on-CB1                                 | https://github.com/koder-guy/RatOS-on-CB1
-cb1,nas       | 01  | openmediavault                               | https://github.com/openmediavault/openmediavault
-cb1,nas       | 01  | OMV-Extras                                   | https://wiki.omv-extras.org/
+cb1,nas       | 00  | openmediavault                               | https://github.com/openmediavault/openmediavault
+cb1,nas       | 00  | OMV-Extras                                   | https://wiki.omv-extras.org/
 cb1,driver    | 11  | LCD-show-retropie                            | https://github.com/lcdwiki/LCD-show-retropie
 steamdesk     | 00  | RetroDECK                                    | https://github.com/XargonWan/RetroDECK
 steamdesk     | 00  | EmuDeck                                      | https://github.com/dragoonDorise/EmuDeck

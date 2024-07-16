@@ -39,11 +39,11 @@ docset,tool   | 11  | doc2dash                            | https://github.com/h
 docset,tool   | 00  | Dashing                             | https://github.com/technosophos/dashing
 docset,zeal   | 00  | Dash's user contributed docset feed | https://github.com/hashhar/dash-contrib-docset-feeds
 docset,godot  | 00  | Godot Dash Docset                   | https://github.com/poga/godot-dash-docset
-slide         | 01  | Slides                              | https://github.com/maaslalani/slides
+slide         | 00  | Slides                              | https://github.com/maaslalani/slides
 slide         | 00  | present                             | https://github.com/vinayak-mehta/present
 slide         | 00  | presenterm                          | https://github.com/mfontanini/presenterm
-diff          | 11  | Diffinity                           | https://www.truehumandesign.se/s_diffinity.php
-diff          | 00  | WinMerge                            | https://winmerge.org
+diff          | 11  | WinMerge                            | https://winmerge.org
+diff          | 10  | Diffinity                           | https://www.truehumandesign.se/s_diffinity.php
 database      | 00  | DBeaver                             | https://dbeaver.io
 database      | 00  | SQL Notebook                        | https://github.com/electroly/sqlnotebook
 database,cli  | 00  | mycli                               | https://github.com/dbcli/mycli

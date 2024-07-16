@@ -14,7 +14,7 @@ lazy            | 11  | lazy.nvim                                 | https://gith
 lazy            | 00  | Lazy local patcher                        | https://github.com/polirritmico/lazy-local-patcher.nvim
 lazy            | 00  | lz.n                                      | https://github.com/nvim-neorocks/lz.n
 lazy            | 00  | telescope-lazy.nvim                       | https://github.com/tsakirist/telescope-lazy.nvim
-lazy            | 001 | lazydev.nvim                              | https://github.com/folke/lazydev.nvim
+lazy            | 01  | lazydev.nvim                              | https://github.com/folke/lazydev.nvim
 config          | 00  | LunarVim                                  | https://github.com/LunarVim/LunarVim
 config          | 00  | NvChad                                    | https://github.com/NvChad/NvChad
 config          | 00  | LazyVim                                   | https://github.com/LazyVim/LazyVim
@@ -72,6 +72,7 @@ markdown        | 00  | markdown.nvim                             | https://gith
 markdown        | 00  | markdown-toc                              | https://github.com/ChuufMaster/markdown-toc
 markdown        | 00  | kiwi.nvim                                 | https://github.com/serenevoid/kiwi.nvim
 latex           | 00  | rnoweb-nvim                               | https://github.com/bamonroe/rnoweb-nvim
+latex           | 00  | VimTeX                                    | https://github.com/lervag/vimtex
 highlight       | 00  | nvim-treesitter                           | https://github.com/nvim-treesitter/nvim-treesitter
 highlight       | 00  | colorizer.lua                             | https://github.com/norcalli/nvim-colorizer.lua
 highlight       | 00  | Rainbow delimiters for Neovim             | https://gitlab.com/HiPhish/rainbow-delimiters.nvim
@@ -98,17 +99,17 @@ edit,move       | 00  | flash.nvim                                | https://gith
 edit,move       | 00  | leap.nvim                                 | https://github.com/ggandor/leap.nvim
 edit,select     | 01  | Multicursors.nvim                         | https://github.com/smoka7/multicursors.nvim
 edit,select     | 01  | multiple-cursors.nvim                     | https://github.com/brenton-leighton/multiple-cursors.nvim
-edit,align      | 001 | align.nvim                                | https://github.com/jokesper/align.nvim
+edit,align      | 01  | align.nvim                                | https://github.com/jokesper/align.nvim
 edit,wrap       | 00  | Vim-ArgWrap                               | https://git.foosoft.net/alex/vim-argwrap
 edit,image      | 00  | Pinmd                                     | https://github.com/mistgc/pinmd.nvim
-edit,link       | 001 | marknav.nvim                              | https://github.com/daenikon/marknav.nvim
+edit,link       | 01  | marknav.nvim                              | https://github.com/daenikon/marknav.nvim
 edit,emoji      | 00  | Emojify.nvim                              | https://github.com/ronisbr/emojify.nvim
 edit,complete   | 01  | gyoza.vim                                 | https://github.com/mityu/vim-gyoza
 replace         | 00  | grug-far.nvim                             | https://github.com/MagicDuck/grug-far.nvim
 replace         | 00  | scalpel.nvim                              | https://github.com/wassimk/scalpel.nvim
 ime             | 00  | cmp-flypy.nvim                            | https://github.com/wasden/cmp-flypy.nvim
 ime             | 00  | jam.nvim                                  | https://github.com/uga-rosa/jam.nvim
-ime             | 001 | im-switch.nvim                            | https://github.com/drop-stones/im-switch.nvim
+ime             | 01  | im-switch.nvim                            | https://github.com/drop-stones/im-switch.nvim
 input           | 00  | Neovim GhostText                          | https://github.com/wallpants/ghost-text.nvim
 yank            | 00  | karen-yank                                | https://github.com/tenxsoydev/karen-yank.nvim
 yank            | 00  | yanky.nvim                                | https://github.com/gbprod/yanky.nvim
@@ -129,7 +130,7 @@ comment         | 00  | vim-hidecomments                          | https://gith
 comment         | 00  | nvim-hemingway                            | https://github.com/chaosystema/nvim-hemingway
 lsp,manage      | 11  | mason.nvim                                | https://github.com/williamboman/mason.nvim
 lsp,manage      | 00  | lazy-lsp.nvim                             | https://github.com/dundalek/lazy-lsp.nvim
-lsp,window      | 001 | Glance                                    | https://github.com/DNLHC/glance.nvim
+lsp,window      | 01  | Glance                                    | https://github.com/DNLHC/glance.nvim
 lsp,tool        | 00  | lsp_signature.nvim                        | https://github.com/ray-x/lsp_signature.nvim
 lsp,dev         | 00  | none-ls.nvim                              | https://github.com/nvimtools/none-ls.nvim
 lsp,style       | 00  | lspkind-nvim                              | https://github.com/onsails/lspkind.nvim
@@ -141,7 +142,7 @@ snip            | 00  | LuaSnip                                   | https://gith
 snip            | 00  | telescope-luasnip                         | https://github.com/benfowler/telescope-luasnip.nvim
 snip            | 00  | telescope-import.nvim                     | https://github.com/piersolenski/telescope-import.nvim
 template        | 00  | Filetype Based Template Plugin For Neovim | https://github.com/doganalper/template.nvim
-template        | 001 | templatory.nvim                           | https://github.com/dheerajshenoy/templatory.nvim
+template        | 01  | templatory.nvim                           | https://github.com/dheerajshenoy/templatory.nvim
 syntax          | 00  | vim-typo                                  | https://github.com/tani/vim-typo
 syntax          | 00  | Decisive.nvim                             | https://github.com/emmanueltouzery/decisive.nvim
 syntax          | 00  | peek.nvim                                 | https://github.com/toppair/peek.nvim
@@ -155,14 +156,14 @@ navigate        | 00  | nvim-bqf                                  | https://gith
 navigate        | 00  | Goto Preview                              | https://github.com/rmagatti/goto-preview
 jump            | 11  | Telescope Zoxide                          | https://github.com/jvgrootveld/telescope-zoxide
 jump            | 00  | telescope-z.nvim                          | https://github.com/nvim-telescope/telescope-z.nvim
-jump            | 001 | jumper.nvim                               | https://github.com/homerours/jumper.nvim
+jump            | 01  | jumper.nvim                               | https://github.com/homerours/jumper.nvim
 telescope       | 00  | telescope.nvim                            | https://github.com/nvim-telescope/telescope.nvim
 telescope       | 00  | telescope-emoji.nvim                      | https://github.com/xiyaowong/telescope-emoji.nvim
 telescope       | 00  | telescope-glyph.nvim                      | https://github.com/ghassan0/telescope-glyph.nvim
 telescope       | 00  | telescope-ui-select.nvim                  | https://github.com/nvim-telescope/telescope-ui-select.nvim
 telescope,prev  | 00  | Telescope-media-files.nvim                | https://github.com/nvim-telescope/telescope-media-files.nvim
 telescope,ytb   | 00  | telescope-youtube-mpv.nvim                | https://github.com/4542elgh/telescope-youtube-mpv.nvim
-telescope,cheat | 001 | cheatsheet.nvim                           | https://github.com/sudormrfbin/cheatsheet.nvim
+telescope,cheat | 01  | cheatsheet.nvim                           | https://github.com/sudormrfbin/cheatsheet.nvim
 docset          | 01  | nvim-telescope-zeal-cli                   | https://gitlab.com/ivan-cukic/nvim-telescope-zeal-cli
 docset          | 01  | zeal-lynx-cli                             | https://github.com/Sanix-Darker/zeal-lynx-cli
 docset          | 00  | dash-docs.nvim                            | https://github.com/sei40kr/dash-docs.nvim
@@ -171,14 +172,14 @@ dict            | 00  | dict-popup.nvim                           | https://gith
 translate       | 11  | translate.nvim                            | https://github.com/uga-rosa/translate.nvim
 translate       | 00  | Trans.nvim                                | https://github.com/JuanZoran/Trans.nvim
 clip            | 00  | nvim-neoclip.lua                          | https://github.com/AckslD/nvim-neoclip.lua
-console         | 001 | flow.nvim                                 | https://github.com/arjunmahishi/flow.nvim
+console         | 01  | flow.nvim                                 | https://github.com/arjunmahishi/flow.nvim
 console         | 11  | toggleterm.nvim                           | https://github.com/akinsho/toggleterm.nvim
 console         | 00  | Better Term                               | https://github.com/CRAG666/betterTerm.nvim
 console         | 00  | telescope-cmdline.nvim                    | https://github.com/jonarrien/telescope-cmdline.nvim
 console         | 00  | tmux-compile.nvim                         | https://github.com/karshPrime/tmux-compile.nvim
 console         | 00  | trun.nvim                                 | https://github.com/Veirt/trun.nvim
 python          | 00  | swenv.nvim                                | https://github.com/AckslD/swenv.nvim
-python          | 001 | py-requirements.nvim                      | https://github.com/MeanderingProgrammer/py-requirements.nvim
+python          | 01  | py-requirements.nvim                      | https://github.com/MeanderingProgrammer/py-requirements.nvim
 jupyter         | 00  | Molten                                    | https://github.com/benlubas/molten-nvim
 picker          | 00  | telescope-all-recent.nvim                 | https://github.com/prochri/telescope-all-recent.nvim
 picker          | 00  | telescope-picker-list.nvim                | https://github.com/OliverChao/telescope-picker-list.nvim
@@ -191,8 +192,8 @@ jump            | 00  | telescope-hop.nvim                        | https://gith
 menu            | 00  | telescope-menu.nvim                       | https://github.com/octarect/telescope-menu.nvim
 format          | 00  | conform.nvim                              | https://github.com/stevearc/conform.nvim
 format          | 10  | stylua-nvim                               | https://github.com/ckipp01/stylua-nvim
-git             | 001 | Telescope-github.nvim                     | https://github.com/nvim-telescope/telescope-github.nvim
-git             | 001 | telescope-code-fence.nvim                 | https://github.com/chip/telescope-code-fence.nvim
+git             | 01  | Telescope-github.nvim                     | https://github.com/nvim-telescope/telescope-github.nvim
+git             | 01  | telescope-code-fence.nvim                 | https://github.com/chip/telescope-code-fence.nvim
 git             | 00  | telescope-repo.nvim                       | https://github.com/cljoly/telescope-repo.nvim
 git             | 00  | lazygit.nvim                              | https://github.com/kdheepak/lazygit.nvim
 git             | 00  | Diffview.nvim                             | https://github.com/sindrets/diffview.nvim
@@ -203,16 +204,16 @@ git             | 00  | telescope-git-submodules.nvim             | https://gith
 git             | 00  | telescope-git-conflicts.nvim              | https://github.com/Snikimonkd/telescope-git-conflicts.nvim
 git             | 00  | gitblame.nvim                             | https://github.com/ring0-rootkit/gitblame.nvim
 git             | 00  | conflict-juggler.nvim                     | https://github.com/pv-hernandez/conflict-juggler.nvim
-issue           | 001 | Octo.nvim                                 | https://github.com/pwntester/octo.nvim
+issue           | 01  | Octo.nvim                                 | https://github.com/pwntester/octo.nvim
 workspace       | 00  | workspaces.nvim                           | https://github.com/natecraddock/workspaces.nvim
-proj            | 001 | Neovim project manager plugin             | https://github.com/coffebar/neovim-project
-proj            | 001 | telescope-project.nvim                    | https://github.com/nvim-telescope/telescope-project.nvim
+proj            | 01  | Neovim project manager plugin             | https://github.com/coffebar/neovim-project
+proj            | 01  | telescope-project.nvim                    | https://github.com/nvim-telescope/telescope-project.nvim
 license         | 00  | telescope-software-licenses.nvim          | https://github.com/chip/telescope-software-licenses.nvim
 task            | 00  | Telescope tasks                           | https://github.com/lpoto/telescope-tasks.nvim
 task            | 00  | telescope-asynctasks.nvim                 | https://github.com/GustavoKatel/telescope-asynctasks.nvim
 session         | 10  | auto-session                              | https://github.com/rmagatti/auto-session
 session         | 00  | Session Lens                              | https://github.com/rmagatti/session-lens
-run             | 001 | code_runner.vim                           | https://github.com/MajorZiploc/code_runner.vim
+run             | 01  | code_runner.vim                           | https://github.com/MajorZiploc/code_runner.vim
 run             | 00  | nvim-fuel                                 | https://github.com/javiorfo/nvim-fuel
 run             | 00  | sendline                                  | https://github.com/bugsbugsbux/sendline
 run             | 00  | compal.nvim                               | https://github.com/sashetophizika/compal.nvim
@@ -244,7 +245,7 @@ gpt             | 00  | ollama.nvim                               | https://gith
 gpt             | 00  | Telescope GPT                             | https://github.com/HPRIOR/telescope-gpt
 mpv             | 00  | mpv.nvim                                  | https://github.com/tamton-aquib/mpv.nvim
 mpv             | 00  | neovimpv                                  | https://github.com/queue-miscreant/neovimpv
-3rd             | 001 | daktilo                                   | https://github.com/orhun/daktilo
+3rd             | 01  | daktilo                                   | https://github.com/orhun/daktilo
 library         | 00  | commons.nvim                              | https://github.com/linrongbin16/commons.nvim
 audio           | 01  | reverb.nvim                               | https://github.com/whleucka/reverb.nvim
 macro           | 00  | NeoComposer.nvim                          | https://github.com/ecthelionvi/NeoComposer.nvim

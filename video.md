@@ -4,7 +4,7 @@ player           | 00  | MPC-HC                                   | https://gith
 player           | 00  | mpc-qt                                   | https://github.com/mpc-qt/mpc-qt
 player           | 00  | mpv.net                                  | https://github.com/mpvnet-player/mpv.net
 player           | 00  | Minimalist Media Player                  | https://github.com/bazzacuda/minimalistmediaplayerx
-player           | 001 | MMP: Minimalist Media Player             | https://github.com/BazzaCuda/MinimalistMediaPlayerX
+player           | 00  | MMP: Minimalist Media Player             | https://github.com/BazzaCuda/MinimalistMediaPlayerX
 player           | 00  | Kawaii-Player                            | https://github.com/kanishka-linux/kawaii-player
 player           | 00  | Miteiru                                  | https://github.com/hockyy/miteiru
 player           | 00  | ImPlay                                   | https://github.com/tsl0922/ImPlay
@@ -14,7 +14,7 @@ Memento          | 00  | verb_inflections_jmdict                  | https://gith
 stream           | 00  | Streamlink                               | https://streamlink.github.io
 stream           | 00  | Syncplay                                 | https://syncplay.pl
 stream,tool      | 00  | stream-translator                        | https://github.com/fortypercnt/stream-translator
-twitch           | 01  | Streamlink Twitch GUI                    | https://streamlink.github.io/streamlink-twitch-gui
+twitch           | 00  | Streamlink Twitch GUI                    | https://streamlink.github.io/streamlink-twitch-gui
 twitch           | 00  | Chatterino 2                             | https://github.com/Chatterino/chatterino2
 tagdata          | 11  | MediaInfo                                | https://mediaarea.net/en/MediaInfo
 tagdata          | 00  | MediaInfo.NET                            | https://github.com/stax76/MediaInfo.NET
@@ -24,8 +24,8 @@ cut              | 00  | VidCutter                                | https://gith
 tool             | 00  | WebmGenerator                            | https://github.com/dfaker/WebmGenerator
 process          | 00  | FFmpeg                                   | https://ffmpeg.org
 process          | 11  | FFmpeg Batch AV Converter                | https://github.com/eibol/ffmpeg_batch
-process          | 01  | Editly                                   | https://github.com/scikit-video/scikit-video
-process,mkv      | 00  | srt_sub_extract                          | https://github.com/mifi/editly
+process          | 00  | Editly                                   | https://github.com/mifi/editly
+process          | 00  | 00                                       | https://github.com/Zulko/moviepy
 encode           | 11  | HandBrake                                | https://handbrake.fr
 encode           | 00  | StaxRip                                  | https://github.com/staxrip/staxrip
 encode           | 11  | FastFlix                                 | https://github.com/cdgriffith/FastFlix
@@ -48,7 +48,7 @@ subtitle         | 11  | Aegisub                                  | https://aegi
 subtitle         | 00  | 字幕共享计划                             | https://github.com/foxofice/sub_share
 subtitle         | 00  | Sbubby                                   | https://github.com/kokseen1/Sbubby
 subtitle,ocr     | 00  | Video-subtitle-extractor                 | https://github.com/YaoFANGUK/video-subtitle-extractor
-subtitle,process | 01  | merge-srt-subtitles                      | https://github.com/malfroid/merge-srt-subtitles
+subtitle,process | 00  | merge-srt-subtitles                      | https://github.com/malfroid/merge-srt-subtitles
 subtitle,tool    | 00  | Subtitles Cleaner                        | https://github.com/yuvalsol/SubtitlesCleaner
 subtitle,script  | 00  | Subtitle Edit                            | https://github.com/SubtitleEdit/plugins
 synchronize      | 11  | alass                                    | https://github.com/kaegi/alass
@@ -63,6 +63,7 @@ transcript       | 00  | AutoSub                                  | https://gith
 2gif,vid         | 00  | Seamless                                 | https://github.com/Quozul/seamless
 2srt             | 00  | ass2srt                                  | https://github.com/zcq100/ass2srt
 2srt             | 11  | vtt_to_srt3                              | https://github.com/jsonzilla/vtt_to_srt3
+2srt             | 00  | srt_sub_extract                          | https://github.com/cyizhuo/srt_sub_extract
 2ass             | 00  | python-srt2ass                           | https://github.com/ewwink/python-srt2ass
 2vtt             | 00  | SRT to VTT Command Line                  | https://github.com/nwoltman/srt-to-vtt-cl
 2vtt             | 11  | SRT to VTT Converter                     | https://github.com/nwoltman/srt-to-vtt-converter

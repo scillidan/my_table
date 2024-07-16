@@ -54,11 +54,11 @@ edit            | 00  | Display numbers                         | https://github
 edit            | 11  | SortBy                                  | https://github.com/Doi9t/SortBy
 edit            | 11  | Insert Nums                             | https://github.com/jbrooksuk/InsertNums
 edit            | 11  | Calculate                               | https://github.com/colinta/SublimeCalculate
-edit            | 01  | Interactivity                           | https://github.com/ichichikin/sublime-plugin-interactivity
+edit            | 00  | Interactivity                           | https://github.com/ichichikin/sublime-plugin-interactivity
 edit            | 11  | AlignTab                                | https://github.com/randy3k/AlignTab
 edit            | 00  | multiAlign                              | https://github.com/shwk86/multiAlign
 edit            | 00  | Advanced CSV                            | https://github.com/wadetb/Sublime-Text-Advanced-CSV
-edit            | 10  | Data Wizard                             | https://github.com/nickklaskala/DataWizard
+edit            | 00  | Data Wizard                             | https://github.com/nickklaskala/DataWizard
 edit            | 00  | TabNav                                  | https://github.com/mitchvm/tabnav
 edit            | 00  | Comment Marks                           | https://github.com/maegul/comment_marks
 edit            | 00  | Markdown Code Packer                    | https://github.com/motine/MarkdownCodePacker
@@ -79,36 +79,36 @@ search          | 11  | Simple Fuzzy                            | https://github
 syntax          | 11  | MarkdownEditing                         | https://github.com/SublimeText-Markdown/MarkdownEditing
 syntax          | 00  | Markdown Extended                       | https://github.com/jonschlinkert/sublime-markdown-extended
 syntax          | 11  | reStructuredText Improved               | https://github.com/adamchainz/sublime-rst-improved
-syntax          | 01  | MarLant                                 | https://github.com/retifrav/marlant
+syntax          | 00  | MarLant                                 | https://github.com/retifrav/marlant
 syntax          | 11  | M3U Syntax                              | https://github.com/sal0max/sublime-m3u
 syntax          | 11  | rainbow_csv                             | https://github.com/mechatroner/sublime_rainbow_csv
 syntax          | 11  | Log Highlight                           | https://github.com/poucotm/Log-Highlight
 syntax          | 11  | MDX                                     | https://github.com/SublimeText/MDX
 syntax          | 11  | AutoHotkey                              | https://github.com/ahkscript/SublimeAutoHotkey
 syntax          | 00  | Pretty Lua                              | https://github.com/aerobounce/Sublime-Pretty-Lua
-search          | 01  | StickySearch                            | https://github.com/vim-zz/StickySearch
+search          | 00  | StickySearch                            | https://github.com/vim-zz/StickySearch
 lsp             | 00  | Tabnine                                 | https://www.tabnine.com
-lsp,3rd         | 11  | Reason Language Server                  | https://github.com/jaredly/reason-language-server
-lsp             | 11  | Reason                                  | https://github.com/reasonml-editor/sublime-reason
-lsp             | 11  | LSP                                     | https://github.com/sublimelsp/LSP
-lsp             | 11  | LSP-html                                | https://github.com/sublimelsp/LSP-html
-lsp             | 11  | LSP-css                                 | https://github.com/sublimelsp/LSP-css
-lsp             | 01  | LSP-stylelint                           | https://github.com/sublimelsp/LSP-stylelint
-lsp             | 11  | LSP-yaml                                | https://github.com/sublimelsp/LSP-yaml
-lsp             | 11  | LSP-json                                | https://github.com/sublimelsp/LSP-json
-lsp             | 11  | LSP-lua                                 | https://github.com/sublimelsp/LSP-lua
-lsp             | 11  | LSP-TexLab                              | https://github.com/sublimelsp/LSP-TexLab
+lsp,3rd         | 00  | Reason Language Server                  | https://github.com/jaredly/reason-language-server
+lsp             | 00  | Reason                                  | https://github.com/reasonml-editor/sublime-reason
+lsp             | 00  | LSP                                     | https://github.com/sublimelsp/LSP
+lsp             | 00  | LSP-html                                | https://github.com/sublimelsp/LSP-html
+lsp             | 00  | LSP-css                                 | https://github.com/sublimelsp/LSP-css
+lsp             | 00  | LSP-stylelint                           | https://github.com/sublimelsp/LSP-stylelint
+lsp             | 00  | LSP-yaml                                | https://github.com/sublimelsp/LSP-yaml
+lsp             | 00  | LSP-json                                | https://github.com/sublimelsp/LSP-json
+lsp             | 00  | LSP-lua                                 | https://github.com/sublimelsp/LSP-lua
+lsp             | 00  | LSP-TexLab                              | https://github.com/sublimelsp/LSP-TexLab
 lsp             | 00  | LOVELY2D                                | https://github.com/kevinfiol/LOVELY2D
 lsp             | 00  | LSP-Grammarly                           | https://github.com/sublimelsp/LSP-Grammarly
-lsp             | 01  | PyRock                                  | https://github.com/abhishek72850/pyrock
-lsp             | 01  | PYTHON TOOLS                            | https://github.com/ginanjarn/pythontools
+lsp             | 00  | PyRock                                  | https://github.com/abhishek72850/pyrock
+lsp             | 00  | PYTHON TOOLS                            | https://github.com/ginanjarn/pythontools
 lsp             | 00  | DictionaryAutoComplete                  | https://github.com/Zinggi/DictionaryAutoComplete
 lsp             | 00  | ComposerPackageInfo                     | https://github.com/gh640/SublimeComposerPackageInfo
 complete        | 00  | ST-BootstrapAutocomplete                | https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete
 complete        | 00  | Hippie Autocomplete                     | https://github.com/Suor/sublime-hippie-autocomplete
 complete        | 00  | FrequencyDictionaries                   | https://github.com/kpym/FrequencyDictionaries
-lint            | 01  | SublimeLinter                           | https://github.com/SublimeLinter/SublimeLinter
-lsp             | 01  | StyleLint-Formatter                     | https://github.com/LetsZiggy/StyleLint-Formatter
+lint            | 00  | SublimeLinter                           | https://github.com/SublimeLinter/SublimeLinter
+lsp             | 00  | StyleLint-Formatter                     | https://github.com/LetsZiggy/StyleLint-Formatter
 lsp             | 11  | quick-lint-js                           | https://github.com/quick-lint/quick-lint-js
 lsp             | 11  | CommandsBrowser                         | https://github.com/Sublime-Instincts/CommandsBrowser
 lint            | 00  | Stylelint                               | https://github.com/stylelint/stylelint

@@ -93,5 +93,8 @@ gpt        | 00  | ZSH AI Commands            | https://github.com/muePatrick/zs
 nvim       | 001 | zsh-nvim-switcher          | https://github.com/dacarey/zsh-nvim-switcher
 network    | 00  | Zsh Plugin For Tailscale   | https://github.com/hsrzq/PluginForTailscale
 network    | 00  | zsh-tailscale-plugin       | https://github.com/HeroesLament/zsh-tailscale-plugin
+ssh        | 01  | xxh                        | https://github.com/xxh/xxh
+ssh        | 10  | zsh-ssh                    | https://github.com/sunlei/zsh-ssh
+ssh        | 00  | zsh-ssh-agent              | https://github.com/twfksh/zsh-ssh-agent
 other      | 00  | zsh-artisan                | https://github.com/jessarcher/zsh-artisan
 other      | 00  | Zsh Vi Mode                | https://github.com/jeffreytse/zsh-vi-mode

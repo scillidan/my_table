@@ -10,11 +10,11 @@ explorer,tool        | 00  | LockHunter                                | https:/
 explorer,tool        | 00  | Folder Painter                            | https://www.sordum.org/10124/folder-painter-v1-3
 taskbar              | 11  | CenterTaskbar                             | https://github.com/mdhiggins/CenterTaskbar
 taskbar              | 00  | Tiny Taskbar                              | https://github.com/HooferDevelops/TinyTaskbar
-taskbar              | 11  | TranslucentTB                             | https://github.com/TranslucentTB/TranslucentTB
+taskbar              | 10  | TranslucentTB                             | https://github.com/TranslucentTB/TranslucentTB
 taskbar              | 10  | SmartTaskbar                              | https://github.com/ChanpleCai/SmartTaskbar
 taskbar              | 00  | T-Clock Redux                             | https://github.com/White-Tiger/T-Clock
 menu                 | 11  | Open-Shell                                | https://github.com/Open-Shell/Open-Shell-Menu
-menu                 | 11  | NeXuS                                     | https://winstep.net/nexus.asp
+menu                 | 10  | NeXuS                                     | https://winstep.net/nexus.asp
 menu                 | 00  | SystemTrayMenu                            | https://github.com/Hofknecht/SystemTrayMenu
 menu                 | 00  | Taskbar Groups                            | https://github.com/tjackenpacken/taskbar-groups
 wallpaper            | 11  | Lively                                    | https://github.com/rocksdanister/lively
@@ -35,7 +35,7 @@ font                 | 11  | Sarasa Gothic                             | https:/
 font                 | 11  | Source Han Sans                           | https://github.com/adobe-fonts/source-han-sans
 font                 | 11  | Source Han Serif                          | https://github.com/adobe-fonts/source-han-serif
 font                 | 11  | LXGW WenKai GB                            | https://github.com/lxgw/LxgwWenkaiGB
-font                 | 11  | Ark Pixel Font                            | https://github.com/TakWolf/ark-pixel-font
+font                 | 10  | Ark Pixel Font                            | https://github.com/TakWolf/ark-pixel-font
 font                 | 00  | Consolas-with-Yahei                       | https://github.com/crvdgc/Consolas-with-Yahei
 font                 | 00  | Microsoft's TrueType core fonts           | https://sourceforge.net/projects/corefonts
 font,manege          | 11  | nexusfont                                 | https://www.xiles.app
@@ -54,22 +54,22 @@ uninstall,cleaner    | 11  | HiBit Uninstaller                         | https:/
 uninstall,cleaner    | 00  | CCleaner                                  | https://www.ccleaner.com/
 cleaner              | 00  | BleachBit                                 | https://www.bleachbit.org/
 cleaner              | 00  | Czkawka                                   | https://github.com/qarmin/czkawka
-install              | 10  | Ketarin                                   | https://github.com/canneverbe/Ketarin
-scoop                | 11  | Scoop                                     | https://scoop.sh
-scoop                | 11  | scoop-search                              | https://github.com/shilangyu/scoop-search
-scoop,bucket         | 11  | Scoop Main                                | https://github.com/ScoopInstaller/Main
-scoop,bucket         | 11  | Scoop Extras                              | https://github.com/ScoopInstaller/Extras
-scoop,bucket         | 11  | Scoop Versions                            | https://github.com/ScoopInstaller/Versions
-scoop,bucket         | 11  | Scoop Java                                | https://github.com/ScoopInstaller/Java
-scoop,bucket         | 11  | rasa                                      | https://github.com/rasa/scoops
-scoop,bucket         | 11  | dorado                                    | https://github.com/chawyehsu/dorado
+install              | 00  | Ketarin                                   | https://github.com/canneverbe/Ketarin
+scoop                | 10  | Scoop                                     | https://scoop.sh
+scoop                | 10  | scoop-search                              | https://github.com/shilangyu/scoop-search
+scoop,bucket         | 10  | Scoop Main                                | https://github.com/ScoopInstaller/Main
+scoop,bucket         | 10  | Scoop Extras                              | https://github.com/ScoopInstaller/Extras
+scoop,bucket         | 10  | Scoop Versions                            | https://github.com/ScoopInstaller/Versions
+scoop,bucket         | 10  | Scoop Java                                | https://github.com/ScoopInstaller/Java
+scoop,bucket         | 10  | rasa                                      | https://github.com/rasa/scoops
+scoop,bucket         | 10  | dorado                                    | https://github.com/chawyehsu/dorado
 scoop,bucket         | 00  | scoop-nirsoft                             | https://github.com/kodybrown/scoop-nirsoft
 scoop,bucket         | 00  | Scoop Bucket for Sysinternals             | https://github.com/niheaven/scoop-sysinternals
 scoop,bucket         | 00  | scoop-games                               | https://github.com/Calinou/scoop-games
-scoop,bucket         | 11  | Scoop bucket for Nerd Fonts               | https://github.com/matthewjberger/scoop-nerd-fonts
+scoop,bucket         | 10  | Scoop bucket for Nerd Fonts               | https://github.com/matthewjberger/scoop-nerd-fonts
 scoop,dev            | 00  | Shim                                      | https://github.com/ScoopInstaller/Shim
 hok                  | 10  | hok                                       | https://github.com/chawyehsu/hok
-choco                | 11  | Chocolatey                                | https://community.chocolatey.org
+choco                | 10  | Chocolatey                                | https://community.chocolatey.org
 package              | 00  | mpm                                       | https://github.com/kdeldycke/meta-package-manager
 lauch                | 00  | uTools                                    | https://u.tools/
 lauch                | 00  | Flow Launcher                             | https://www.flowlauncher.com/
@@ -101,7 +101,7 @@ attribute            | 00  | licensor                                  | https:/
 system-link          | 00  | Move Links                                | https://github.com/Adoliin/move-links
 system-link          | 00  | mklink                                    | https://github.com/kkysen/mklink
 system-link          | 11  | Link Shell Extension                      | https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
-system-link,shortcut | 11  | go-windows-shortcut                       | https://github.com/nyaosorg/go-windows-shortcuocr
+system-link,shortcut | 10  | go-windows-shortcut                       | https://github.com/nyaosorg/go-windows-shortcut
 ime                  | 00  | Keyferret                                 | https://keyferret.com
 rime                 | 11  | Rime                                      | https://rime.im
 rime                 | 11  | 雾凇拼音                                  | https://github.com/iDvel/rime-ice
@@ -125,15 +125,15 @@ paste,image          | 11  | PureRef                                   | https:/
 paste,image          | 10  | PureRef-format                            | https://github.com/FyorDev/PureRef-format
 paste,image          | 00  | opti                                      | https://torcado.itch.io/opti
 paste,image          | 00  | kuadro                                    | http://kruelgames.com/tools/kuadro
-screenshot           | 11  | Snipaste                                  | https://www.snipaste.com
 screenshot           | 10  | ShareX                                    | https://getsharex.com
 screenshot           | 00  | Greenshot                                 | https://getgreenshot.org
 screenshot,web       | 00  | pageres-cli                               | https://github.com/sindresorhus/pageres-cli
 screenshot,web       | 00  | capture-website-cli                       | https://github.com/sindresorhus/capture-website-cli
 screenshot,web       | 00  | shot-scraper                              | https://github.com/simonw/shot-scraper
-screenshot,web       | 11  | SpaceCapture                              | https://github.com/SpaceView/SpaceCapture
-screenshot,web       | 000 | Scroll Capture                            | https://github.com/danielgjackson/scrollcapture
-snipaste,script      | 00  | pastejpeg                                 | https://github.com/foone/pastejpeg
+screenshot,web       | 00  | SpaceCapture                              | https://github.com/SpaceView/SpaceCapture
+screenshot,web       | 00  | Scroll Capture                            | https://github.com/danielgjackson/scrollcapture
+snipaste             | 11  | Snipaste                                  | https://www.snipaste.com
+snipaste,script      | 10  | pastejpeg                                 | https://github.com/foone/pastejpeg
 ocr                  | 11  | Umi-OCR                                   | https://github.com/hiroi-sora/Umi-OCR
 ocr                  | 00  | 白描桌面版                                | https://github.com/baimiaoapp/baimiao-desktop
 ocr                  | 00  | Vis2                                      | https://github.com/iseahound/Vis2
@@ -148,8 +148,8 @@ goldendict           | 00  | GoldenDict tools                          | https:/
 goldendict           | 00  | MDict Tool                                | https://github.com/liuyug/mdict-utils
 goldendict           | 00  | PyGlossary                                | https://github.com/ilius/pyglossary
 dict                 | 00  | JL                                        | https://github.com/rampaa/JL
-dict                 | 01  | TMX to Goldendict Convertor               | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
-zim                  | 001 | ZIM-converter                             | https://github.com/Bartvelp/zim-converter
+dict                 | 00 | TMX to Goldendict Convertor               | https://github.com/Celso-Scott/TMX-to-Goldendict-Converter
+zim                  | 00 | ZIM-converter                             | https://github.com/Bartvelp/zim-converter
 window               | 00  | GlazeWM                                   | https://github.com/glazerdesktop/GlazeWM
 window               | 00  | komorebi                                  | https://github.com/LGUG2Z/komorebi
 window               | 00  | WinWM                                     | https://github.com/McYoloSwagHam/win3wm
@@ -159,11 +159,11 @@ window               | 00  | Simple Dynamic Window Manager for Windows | https:/
 window,switch        | 00  | Window Switcher                           | https://github.com/sigoden/windows-switcher
 window,tool          | 00  | Sizer                                     | http://www.brianapps.net/sizer
 window,tool          | 11  | DeskPins                                  | https://efotinis.neocities.org/deskpins
-window,tool          | 11  | NiftyWindows                              | https://github.com/ahkscript/NiftyWindows
+window,tool          | 10 | NiftyWindows                              | https://github.com/ahkscript/NiftyWindows
 window,tool          | 00  | WinXcorners                               | https://github.com/vhanla/winxcorners
 window,tool          | 00  | Zen Windows                               | https://github.com/cy-gh/AHK_ZenWindows
 window,tool          | 00  | WinScroll                                 | https://github.com/Petethegoat/WinScroll
-record               | 11  | wcap                                      | https://github.com/mmozeiko/wcap
+record               | 10 | wcap                                      | https://github.com/mmozeiko/wcap
 record               | 00  | LICEcap                                   | https://www.cockos.com/licecap
 record               | 00  | Screen Recorder                           | https://github.com/MiniCube11/screen-recorder
 record               | 00  | ScreenToGif                               | https://www.screentogif.com
@@ -247,5 +247,5 @@ ventoy               | 11  | Ventoy                                    | https:/
 ventoy               | 00  | Boo for GRUB                              | https://github.com/PROxZIMA/boo-grub
 archive              | 11  | 7zip                                      | https://www.7-zip.org/
 archive              | 00  | Universal Extractor 2                     | https://github.com/Bioruebe/UniExtract2
-tool                 | 11  | OpenArk                                   | https://openark.blackint3.com/
-tool                 | 10  | DevToys                                   | https://devtoys.app/
+tool                 | 00  | OpenArk                                   | https://openark.blackint3.com/
+tool                 | 00  | DevToys                                   | https://devtoys.app/

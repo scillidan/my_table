@@ -39,7 +39,7 @@ download   | 00  | M3U8                        | https://github.com/oopsguy/m3u8
 download   | 00  | bilix                       | https://github.com/HFrost0/bilix
 download   | 00  | yt-dlg                      | https://github.com/oleksis/youtube-dl-gui
 download   | 00  | IPFS Desktop                | https://github.com/ipfs/ipfs-desktop
-torrent    | 01  | Torrent File Editor         | https://torrent-file-editor.github.io
+torrent    | 00  | Torrent File Editor         | https://torrent-file-editor.github.io
 torrent    | 00  | Intermodal                  | https://github.com/casey/intermodal
 torrent    | 00  | WebTorrent CLI              | https://github.com/webtorrent/webtorrent-cli
 scrape     | 00  | HTTrack                     | https://www.httrack.com

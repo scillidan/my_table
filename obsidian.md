@@ -9,7 +9,7 @@ plugin,brat | 00  | Obsidian Quick Settings Switch for Plugins | https://github.
 plugin      | 00  | Plugin Groups                              | https://github.com/Mocca101/obsidian-plugin-groups
 plugin,brat | 11  | Hot-Reload Plugin                          | https://github.com/pjeby/hot-reload
 plugin      | 11  | Plugin Update Tracker                      | https://github.com/swar8080/obsidian-plugin-update-tracker
-plugin      | 01  | \-                                         | https://github.com/3C0D/obsidian-quick-plugin-switcher
+plugin      | 00  | \-                                         | https://github.com/3C0D/obsidian-quick-plugin-switcher
 mode        | 00  | Typewriter Scroll                          | https://github.com/deathau/cm-typewriter-scroll-obsidian
 mode        | 11  | Contextual Typography                      | https://github.com/mgmeyers/obsidian-contextual-typography
 mode        | 11  | Ozan's Image in Editor Plugin              | https://github.com/ozntel/oz-image-in-editor-obsidian
@@ -26,7 +26,7 @@ editor      | 11  | Collapse All                               | https://github.
 editor      | 00  | File Tree Alternative Plugin               | https://github.com/ozntel/file-tree-alternative
 editor      | 00  | Editing Toolbar                            | https://github.com/PKM-er/obsidian-editing-toolbar
 editor      | 00  | obsidian.nvim                              | https://github.com/epwalsh/obsidian.nvim
-editor      | 001 | \-                                         | https://github.com/Mara-Li/obsidian-explorer-hider
+editor      | 00  | \-                                         | https://github.com/Mara-Li/obsidian-explorer-hider
 editor      | 00  | \-                                         | https://github.com/julzerinos/spellcheck-toggler-obsidian-plugin
 tab         | 00  | \-                                         | https://github.com/gasparschott/obsidian-continuous-mode
 jump        | 00  | Another Quick Switcher                     | https://github.com/tadashi-aikawa/obsidian-another-quick-switcher
@@ -55,7 +55,7 @@ link        | 00  | Comment-like footnotes for Obsidian        | https://github.
 link        | 00  | Citations                                  | https://github.com/hans/obsidian-citation-plugin
 link        | 00  | Advanced URI                               | https://github.com/Vinzent03/obsidian-advanced-uri
 link        | 00  | Actions URI                                | https://github.com/czottmann/obsidian-actions-uri
-link        | 001 | \-                                         | https://github.com/vschroeter/obsidian-virtual-linker
+link        | 00  | \-                                         | https://github.com/vschroeter/obsidian-virtual-linker
 list        | 11  | Outliner                                   | https://github.com/vslinko/obsidian-outliner
 list        | 00  | Markdown Tree                              | https://github.com/carvah/markdown-tree-plugin
 list        | 00  | Key-Value list - Obsidian plugin           | https://github.com/christianwannerstedt/obsidian-key-value-list
@@ -67,7 +67,7 @@ table       | 00  | Excel to Markdown Table                    | https://github.
 table       | 00  | \-                                         | https://github.com/revolter/obsidian-track-a-lot-plugin
 table       | 00  | \-                                         | https://github.com/PandaNocturne/obsidian-collapse-table-plugin
 data        | 11  | Dataview                                   | https://github.com/blacksmithgu/obsidian-dataview
-data        | 01  | Datacore                                   | https://github.com/blacksmithgu/datacore
+data        | 00  | Datacore                                   | https://github.com/blacksmithgu/datacore
 data        | 00  | Dataloom                                   | https://github.com/trey-wallis/obsidian-dataloom
 data        | 00  | DB folder                                  | https://github.com/RafaelGB/obsidian-db-folder
 task        | 00  | Task Collector (TC)                        | https://github.com/ebullient/obsidian-task-collector
@@ -81,39 +81,39 @@ syntax      | 11  | Editor Syntax Highlight                    | https://github.
 syntax      | 00  | Obsidian MathLinks                         | https://github.com/zhaoshenzhai/obsidian-mathlinks
 syntax      | 00  | Obsidian Song Form Diagram                 | https://github.com/ShacharHarshuv/obsidian-song-form-diagram
 syntax      | 00  | BPMN-Plugin                                | https://github.com/joleaf/obsidian-bpmn-plugin
-syntax      | 01  | Marp                                       | https://github.com/JichouP/obsidian-marp-plugin
+syntax      | 00  | Marp                                       | https://github.com/JichouP/obsidian-marp-plugin
 latex,brat  | 11  | Obsidian-Pseudocode                        | https://github.com/ytliu74/obsidian-pseudocode
 latex,brat  | 11  | Quick Latex for Obsidian                   | https://github.com/joeyuping/quick_latex_obsidian
 latex,brat  | 11  | LaTeX Algorithms for Obsidian              | https://github.com/SamZhang02/obsidian-latex-algorithms
 complete    | 11  | Various Complements                        | https://github.com/tadashi-aikawa/obsidian-various-complements-plugin
-tag,brat    | 01  | Tags overview                              | https://github.com/christianwannerstedt/obsidian-tags-overview
-tag         | 01  | Tagged Document Viewer                     | https://github.com/mgeduld/obsidian-tagged-documents-viewer
+tag,brat    | 00  | Tags overview                              | https://github.com/christianwannerstedt/obsidian-tags-overview
+tag         | 00  | Tagged Document Viewer                     | https://github.com/mgeduld/obsidian-tagged-documents-viewer
 tag         | 00  | TagFolder                                  | https://github.com/vrtmrz/obsidian-tagfolder
-tag,brat    | 01  | Tag Navigator                              | https://github.com/alexobenauer/obsidian-tag-navigator
-tag,brat    | 01  | Obsidian Venn Tags                         | https://github.com/MichaelMahlberg/obsidian-venn-tags
-tag,brat    | 01  | Tag Flow for Obsidian                      | https://github.com/Taialt97/Tag-Flow
+tag,brat    | 00  | Tag Navigator                              | https://github.com/alexobenauer/obsidian-tag-navigator
+tag,brat    | 00  | Obsidian Venn Tags                         | https://github.com/MichaelMahlberg/obsidian-venn-tags
+tag,brat    | 00  | Tag Flow for Obsidian                      | https://github.com/Taialt97/Tag-Flow
 desk        | 11  | Kanban                                     | https://github.com/mgmeyers/obsidian-kanban
 desk        | 00  | CardBoard                                  | https://github.com/roovo/obsidian-card-board
 desk        | 00  | Longform                                   | https://github.com/kevboh/longform
 desk        | 00  | Cloze                                      | https://github.com/DearVikki/obsidian-cloze-plugin
 desk,brat   | 00  | Obsidian Fountain                          | https://github.com/chuangcaleb/obsidian-fountain-live
-ttrpg       | 01  | The Calendarium                            | https://github.com/javalent/the-calendarium
+ttrpg       | 00  | The Calendarium                            | https://github.com/javalent/the-calendarium
 desk        | 00  | Dialogue                                   | https://github.com/holubj/obsidian-dialogue-plugin
-ttrpg       | 01  | Dice Roller                                | https://github.com/javalent/dice-roller
-ttrpg       | 01  | Initiative Tracker                         | https://github.com/javalent/initiative-tracker
+ttrpg       | 00  | Dice Roller                                | https://github.com/javalent/dice-roller
+ttrpg       | 00  | Initiative Tracker                         | https://github.com/javalent/initiative-tracker
 ttrpg       | 00  | Generic Initiative Tracker                 | https://github.com/beaurancourt/obsidian-generic-initiative-tracker
-ttrpg       | 01  | Fantasy Statblocks                         | https://github.com/javalent/fantasy-statblocks
+ttrpg       | 00  | Fantasy Statblocks                         | https://github.com/javalent/fantasy-statblocks
 ttrpg       | 00  | The Map File System                        | https://github.com/nzani/mfs-obsidian-plugin
 view        | 00  | Copy Inline Code                           | https://github.com/Alddar/obsidian-copy-inline-code-plugin
 view        | 00  | Gallery                                    | https://github.com/Darakah/obsidian-gallery
-view        | 001 | \-                                         | https://github.com/slnsys/obsidian-canvas2document
+view        | 00  | \-                                         | https://github.com/slnsys/obsidian-canvas2document
 export      | 00  | Pandoc                                     | https://github.com/OliverBalfour/obsidian-pandoc
 export      | 00  | Obsidian Enhancing Export                  | https://github.com/mokeyish/obsidian-enhancing-export
 public      | 00  | Github Publisher                           | https://github.com/ObsidianPublisher/obsidian-github-publisher
 tool        | 11  | Script Launcher                            | https://github.com/AlessandroRuggiero/script-launcher
 tool        | 11  | ActivityWatch                              | https://github.com/LordGrimmauld/aw-watcher-obsidian
 tool        | 00  | Transcription                              | https://github.com/djmango/obsidian-transcription
-tool        | 01  | Syncthing integration                      | https://github.com/LBF38/obsidian-syncthing-integration
+tool        | 00  | Syncthing integration                      | https://github.com/LBF38/obsidian-syncthing-integration
 tool        | 00  | obsidian-publish-css                       | https://github.com/chad-bennett/obsidian-publish-css
 tool        | 00  | Potato Indexer                             | https://github.com/LoyalPotato/potato-indexer
 tool        | 00  | Card Links                                 | https://github.com/ormai/obsidian-card-links

@@ -11,7 +11,7 @@ book       | 00  | Whisper Subtitles for Videos   | https://github.com/usoonees/
 calendar   | 00  | Journals calendar              | https://github.com/xyhp915/logseq-journals-calendar
 calendar   | 00  | Single Journal                 | https://github.com/YU000jp/logseq-plugin-single-journal
 data       | 00  | logseq-tablerender-plugin      | https://github.com/hkgnp/logseq-tablerender-plugin
-data       | 001 | LOGSEQ-BOOK-FETCH              | https://github.com/LuloDev/logseq-book-fetch
+data       | 00  | LOGSEQ-BOOK-FETCH              | https://github.com/LuloDev/logseq-book-fetch
 dictionary | 00  | logseq-randomutils-plugin      | https://github.com/hkgnp/logseq-randomutils-plugin
 edit       | 00  | Extra editing commands         | https://github.com/freder/logseq-plugin-extra-editing-commands
 edit       | 11  | Merge Nested Blocks Into One   | https://github.com/georgeguimaraes/logseq-plugin-merge-nested-blocks-into-one

@@ -46,7 +46,7 @@ grep             | 00  | ugrep                      | https://github.com/Genivia
 grep             | 00  | Grepz                      | https://github.com/shockz-offsec/Grepz
 grep             | 00  | sg                         | https://github.com/ast-grep/ast-grep
 grep             | 00  | vgrep                      | https://github.com/vrothberg/vgrep
-grep             | 10  | qgrep                      | https://github.com/zeux/qgrep
+grep             | 00  | qgrep                      | https://github.com/zeux/qgrep
 tldr             | 00  | tldr++                     | https://github.com/isacikgoz/tldr
 tldr             | 00  | tldr-pages                 | https://github.com/tldr-pages/tldr
 tldr             | 00  | tealdeer                   | https://github.com/dbrgn/tealdeer
@@ -54,9 +54,8 @@ cheat            | 00  | cheat.sh                   | https://github.com/chubin/
 cheat            | 00  | navi                       | https://github.com/denisidoro/navi
 cheat            | 00  | kb                         | https://github.com/gnebbia/kb
 document         | 00  | dedoc                      | https://github.com/toiletbril/dedoc
-select           | 001 | Heatseeker                 | https://github.com/rschmitt/heatseeker
+select           | 00  | Heatseeker                 | https://github.com/rschmitt/heatseeker
 sync             | 00  | rsync                      | https://rsync.samba.org
-sync             | 11  | rsync                      | https://linux.die.net/man/1/rsync
 sync             | 00  | cwRsync                    | https://itefix.net/cwrsync
 backup           | 00  | restic                     | https://github.com/restic/restic
 find             | 00  | fd                         | https://github.com/sharkdp/fd
@@ -72,7 +71,7 @@ rename           | 00  | RnR                        | https://github.com/ismaelg
 replace          | 00  | lcNrD                      | https://github.com/Jabrils/lcNrD
 rename,gui       | 11  | Advanced Renamer           | https://www.advancedrenamer.com
 rename,gui       | 00  | ReNamer                    | https://www.den4b.com/products/renamer
-dig              | 11  | bind                       | https://www.isc.org/bind
+dig              | 00  | bind                       | https://www.isc.org/bind
 dns              | 00  | Dns Jumper                 | https://www.sordum.org/downloads/?dns-jumper
 dns              | 00  | DNS Benchmark              | https://www.grc.com/dns/benchmark.htmS
 dns              | 00  | dnscrypt-proxy             | https://github.com/DNSCrypt/dnscrypt-proxy
@@ -89,13 +88,13 @@ ping             | 00  | PowerPing                  | https://github.com/Killero
 ping             | 00  | pingu                      | https://github.com/sheepla/pingu
 request          | 00  | ASNmap                     | https://github.com/projectdiscovery/asnmap
 request          | 00  | q                          | https://github.com/natesales/q
-request          | 01  | HTTPie CLI                 | https://github.com/httpie/httpie
-request          | 01  | xh                         | https://github.com/ducaale/xh
+request          | 00  | HTTPie CLI                 | https://github.com/httpie/httpie
+request          | 00  | xh                         | https://github.com/ducaale/xh
 request          | 00  | fuzzuli                    | https://github.com/musana/fuzzuli
-request,test     | 10  | speedtest-cli              | https://github.com/sivel/speedtest-cli
+request,test     | 00  | speedtest-cli              | https://github.com/sivel/speedtest-cli
 request,test     | 00  | oha                        | https://github.com/hatoo/oha
 request,test     | 00  | uro                        | https://github.com/s0md3v/uro
-thumb,gui        | 01  | qmtn                       | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
+thumb,gui        | 00  | qmtn                       | https://gitlab.com/movie_thumbnailer/qmtn/-/wikis/home
 thumb            | 00  | mtn                        | https://gitlab.com/movie_thumbnailer/mtn/-/wikis/home
 thumb            | 00  | mt                         | https://github.com/mutschler/mt
 thumb            | 00  | vcsi                       | https://github.com/amietn/vcsi
@@ -120,7 +119,7 @@ fetch            | 00  | winfetch                   | https://github.com/lptstr/
 fetch            | 00  | Winfetch                   | https://github.com/M4cs/winfetch
 fetch            | 00  | cpufetch                   | https://github.com/Dr-Noob/cpufetch
 record           | 00  | carbon-now-cli             | https://github.com/mixn/carbon-now-cli
-record           | 01  | Silicon                    | https://github.com/Aloxaf/silicon
+record           | 00  | Silicon                    | https://github.com/Aloxaf/silicon
 record,pwsh      | 00  | PowerSession               | https://github.com/Watfaq/PowerSession
 record,pwsh      | 00  | PowerSession               | https://github.com/Watfaq/PowerSession-rs
 notify           | 00  | BurntToast                 | https://github.com/Windos/BurntToast
@@ -167,7 +166,7 @@ string           | 00  | AnyAscii                   | https://github.com/anyasci
 string           | 00  | Go OpenCC                  | https://github.com/razonyang/gopencc
 string           | 00  | Vapyrwave                  | https://github.com/jonesmartins/vapyrwave
 string           | 00  | uwuify                     | https://github.com/Daniel-Liu-c0deb0t/uwu
-regex            | 01  | grex                       | https://github.com/pemistahl/grex
+regex            | 00  | grex                       | https://github.com/pemistahl/grex
 abbreviate       | 00  | abbreviate                 | https://github.com/dnnrly/abbreviate
 abbreviate       | 00  | abbr-cli                   | https://github.com/mhadidg/abbr-cli
 abbreviate       | 00  | wtf-cli                    | https://github.com/haixiangyan/wtf-cli
@@ -176,7 +175,7 @@ dictionary       | 00  | zdic-cli                   | https://github.com/LingDon
 dictionary       | 00  | thes                       | https://github.com/grantshandy/thes
 dictionary,color | 00  | Colorpedia                 | https://github.com/joowani/colorpedia
 dictionary,color | 00  | pastel                     | https://github.com/sharkdp/pastel
-dictionary,tool  | 01  | PyGlossary                 | https://github.com/ilius/pyglossary
+dictionary,tool  | 00  | PyGlossary                 | https://github.com/ilius/pyglossary
 etymolog         | 00  | ety                        | https://github.com/Calder-Ty/ety
 etymolog         | 00  | etym                       | https://github.com/tetrismegistus/etym
 etymolog         | 00  | etymolog                   | https://github.com/uzak/etymolog
@@ -190,8 +189,8 @@ accounting       | 00  | Transity                   | https://github.com/ad-si/T
 gpt              | 00  | shell-gpt                  | https://github.com/TheR1D/shell_gpt
 check            | 00  | word-checker               | https://github.com/houbb/word-checker
 check            | 00  | GuwenBERT                  | https://github.com/Ethan-yt/guwenbert
-font             | 001 | 齊伋體                     | https://github.com/LingDong-/qiji-font
-font             | 001 | 剔骨仿宋                   | https://github.com/LingDong-/tk-fangsong-font
+font             | 00  | 齊伋體                     | https://github.com/LingDong-/qiji-font
+font             | 00  | 剔骨仿宋                   | https://github.com/LingDong-/tk-fangsong-font
 font             | 00  | ttf2png                    | https://github.com/regulad/ttf2png
 font             | 00  | pyftsubset                 | https://github.com/web-wyj/pyftsubset
 font             | 00  | Ligaturizer                | https://github.com/ToxicFrog/Ligaturizer

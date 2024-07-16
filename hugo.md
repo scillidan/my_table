@@ -24,7 +24,7 @@ hexo           | 00  | Hexo                       | https://hexo.io
 hexo           | 00  | Icarus                     | https://github.com/ppoffice/hexo-theme-icarus
 hexo           | 00  | Stellar                    | https://github.com/xaoxuu/hexo-theme-stellar
 hexo,tool      | 00  | hexo-deployer-git          | https://github.com/hexojs/hexo-deployer-git
-vivliostyle    | 01  | Vivliostyle                | https://vivliostyle.org
+vivliostyle    | 11  | Vivliostyle                | https://vivliostyle.org
 vivliostyle    | 00  | Vivliostyle.js Releases    | https://vivliostyle.github.io
 vivliostyle    | 00  | hugo-theme-vivliocli       | https://github.com/mochimochiki/hugo-theme-vivliocli
 vivliostyle    | 00  | kaigainotabi1              | https://github.com/MurakamiShinyu/kaigainotabi1
@@ -45,7 +45,7 @@ mdbook         | 10  | MDBook EPUB Backend        | https://github.com/Michael-F
 mdbook,tool    | 00  | MDBook Link-Check          | https://github.com/Michael-F-Bryan/mdbook-linkcheck
 retype         | 00  | Retype                     | https://retype.com
 retype         | 00  | Retype Build Action        | https://github.com/retypeapp/action-build
-wiki           | 001 | TiddlyWiki                 | https://tiddlywiki.com/
+wiki           | 00 | TiddlyWiki                  | https://tiddlywiki.com/
 wiki           | 00  | Amusewiki                  | https://github.com/melmothx/amusewiki
 preview        | 00  | Markserv                   | https://github.com/markserv/markserv
 preview        | 00  | Markdown Live Preview      | https://github.com/ms-jpq/markdown-live-preview

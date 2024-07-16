@@ -14,7 +14,7 @@ control     | 00  | Control sound autohotkey                | https://github.com
 input       | 00  | InputTip                                | https://github.com/abgox/InputTip
 input       | 00  | wincoding_ANSI                          | https://github.com/su-pull/wincoding
 input       | 00  | vimmer-ahk                              | https://github.com/koirand/vimmer-ahk
-input       | 01  | ahk_RegExHotstring                      | https://github.com/8LWXpg/RegExHotstring
+input       | 00  | ahk_RegExHotstring                      | https://github.com/8LWXpg/RegExHotstring
 input       | 11  | AHK-KeyMap                              | https://github.com/Gustice/AHK-KeyMap
 input       | 00  | AHKExpansionsList                       | https://github.com/GavinPen/AHKExpansionsList
 input       | 00  | ICM Shortcuts for AutoHotkey            | https://github.com/ayeseeem/ICM-shortcuts
@@ -45,13 +45,13 @@ window      | 00  | Desktop Shifter                         | https://github.com
 window      | 00  | ahk-scripts                             | https://github.com/basghar/ahk-scripts
 window      | 00  | VirtualDesktopAccessor.dll              | https://github.com/Ciantic/VirtualDesktopAccessor
 window      | 00  | AltDrag, AltResize, AltMove             | https://github.com/andreapizzigoni/altdrag_ahk
-window      | 11  | ahk-resize-windows                      | https://github.com/IsacEkeroth/ahk-resize-windows
+window      | 10  | ahk-resize-windows                      | https://github.com/IsacEkeroth/ahk-resize-windows
 window      | 00  | Windows AHK Script                      | https://github.com/arlbibek/windows-ahk
 window      | 00  | Better-Big-Screen-Window-Manager        | https://github.com/indigofairyx/Better-Big-Screen-Window-Manager
 paste       | 00  | CL3                                     | https://github.com/hi5/CL3
 paste       | 11  | ShortScript                             | https://github.com/RichKMLS/ShortScript
 paste       | 00  | copyWaste                               | https://github.com/MuhamKAldin/copyWaste
-paste       | 001 | Autohokey copy and paste for data entry | https://github.com/Tran1595/autohokey-copypaste-for-data-entry
+paste       | 00  | Autohokey copy and paste for data entry | https://github.com/Tran1595/autohokey-copypaste-for-data-entry
 ocr         | 00  | Vis2                                    | https://github.com/iseahound/Vis2
 ocr         | 00  | GoldenDictAide                          | https://github.com/debugfan/GoldenDictAide
 ocr         | 11  | GoldenDictOCR                           | https://github.com/VimWei/GoldenDictOCR
@@ -60,10 +60,10 @@ rec         | 00  | OBS WebSocket for AutoHotKey v2.0+      | https://github.com
 notify      | 00  | CuToaster                               | https://github.com/cy-gh/CuToaster
 audio       | 00  | Mute on focus lost                      | https://github.com/TomiBelan/mute-on-focus-lost
 audio       | 00  | AutoAccent                              | https://github.com/hamurlik/AutoAccent
-process     | 00  |                                         | WinExeCommander                                                       | https://github.com/XMCQCX/WinExeCommander
+process     | 00  | WinExeCommander                         | https://github.com/XMCQCX/WinExeCommander
 workflow    | 00  | CJK Material Processing                 | https://github.com/ahlisbon/CJKmaterialProcessing
 workflow    | 00  | ahk                                     | https://github.com/Tomshiii/ahk
-workflow    | 001 | Kevin's AutoHotKey Application          | https://github.com/KevinHJoe/Auto-App
+workflow    | 00  | Kevin's AutoHotKey Application          | https://github.com/KevinHJoe/Auto-App
 environment | 00  | Environment.ahk                         | https://github.com/iseahound/Environment.ahk
 development | 00  | Easy AutoGUI                            | https://github.com/samfisherirl/Easy-Auto-GUI-for-AHK-v2
 development | 00  | AHK Studio                              | https://www.maestrith.com/ahk-studio

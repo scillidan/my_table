@@ -17,7 +17,6 @@ device      | 00  | toolBLEx                                   | https://github.
 device      | 00  | WatchFlower                                | https://flathub.org/apps/io.emeric.watchflower
 wine        | 10  | Bottles                                    | https://github.com/bottlesdevs/Bottles
 firmware    | 00  | Firmware                                   | https://gitlab.gnome.org/World/gnome-firmware
-dictd       | 001 | word                                       | https://github.com/quite/word
 dictd       | 00  | dict-ecdict                                | https://github.com/tuberry/dict-ecdict
 dictd       | 00  | dict-wrapper                               | https://github.com/dekerser/dict-wrapper
 dictd       | 00  | ClipDict                                   | https://github.com/github-young/ClipDict

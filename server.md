@@ -5,7 +5,7 @@ dns         | 00  | Pi-hole             | https://github.com/pi-hole/pi-hole
 dns         | 00  | AdGuardHome         | https://github.com/AdguardTeam/AdGuardHome
 dns,monitor | 00  | AdGuardian-Term     | https://github.com/Lissy93/AdGuardian-Term
 wireles     | 000 | Unifi-controller    | https://github.com/linuxserver/docker-unifi-controller
-git         | 001 | git-sync            | https://github.com/kubernetes/git-sync
+git         | 00  | git-sync            | https://github.com/kubernetes/git-sync
 docker      | 00  | podman-tui          | https://github.com/containers/podman-tui
 docker      | 00  | lazydocker          | https://github.com/jesseduffield/lazydocker
 image       | 00  | dive                | https://github.com/wagoodman/dive
@@ -13,8 +13,8 @@ image,pull  | 00  | Stargz Snapshotter  | https://github.com/containerd/stargz-s
 update      | 00  | Watchtower          | https://containrrr.dev/watchtower
 kubernete   | 00  | K9s                 | https://github.com/derailed/k9s
 kubernete   | 00  | Viddy               | https://github.com/sachaos/viddy
-sync        | 001 | Syncthing           | https://github.com/linuxserver/docker-syncthing
-sync        | 001 | Resilio-sync        | https://github.com/linuxserver/docker-resilio-sync
+sync        | 00  | Syncthing           | https://github.com/linuxserver/docker-syncthing
+sync        | 00  | Resilio-sync        | https://github.com/linuxserver/docker-resilio-sync
 torrent     | 00  | Qbittorrent         | https://github.com/linuxserver/docker-qbittorrent
 torrent     | 00  | Magnetissimo        | https://github.com/sergiotapia/magnetissimo
 torrent     | 00  | Torrentinim         | https://github.com/sergiotapia/torrentinim
@@ -25,7 +25,7 @@ arr         | 00  | Bazarr              | https://github.com/morpheus65535/bazar
 arr         | 00  | Raddrr              | https://github.com/linuxserver/docker-radarr
 arr         | 00  | Sonarr              | https://github.com/Sonarr/Sonarr
 translate   | 001 | Weblate             | https://github.com/WeblateOrg/weblate
-translate   | 001 | Pontoon             | https://github.com/mozilla/pontoon
+translate   | 00  | Pontoon             | https://github.com/mozilla/pontoon
 learn       | 001 | anki-sync-server    | https://github.com/yangchuansheng/anki-sync-server
 write-with  | 001 | HedgeDoc            | https://github.com/linuxserver/docker-hedgedoc
 file-share  | 001 | Pydio-cells         | https://github.com/linuxserver/docker-pydio-cells

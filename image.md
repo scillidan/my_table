@@ -1,8 +1,8 @@
 group              | tag | title                                       | url
 :-                 | :-  | :-                                          | :-
-view               | 10  | qView                                       | https://github.com/jurplel/qView
-view               | 10  | Simp                                        | https://github.com/Kl4rry/simp
-view               | 11  | qimgv                                       | https://github.com/easymodo/qimgv
+view               | 00  | qView                                       | https://github.com/jurplel/qView
+view               | 00  | Simp                                        | https://github.com/Kl4rry/simp
+view               | 10  | qimgv                                       | https://github.com/easymodo/qimgv
 view               | 00  | tacent view                                 | https://github.com/bluescan/tacentview
 view               | 00  | Pineapple Pictures                          | https://github.com/BLumia/pineapple-pictures
 view               | 00  | Oculante                                    | https://github.com/woelper/oculante
@@ -11,8 +11,8 @@ view,edit          | 11  | IrfanView                                   | https:/
 view,edit          | 00  | Quick Picture Viewer                        | https://github.com/ModuleArt/quick-picture-viewer
 browse             | 00  | FastStone                                   | https://www.faststone.org/FSViewerDetail.htm
 browse             | 00  | XnView MP                                   | https://www.xnview.com/en/xnviewmp
-manga              | 11  | YACReader                                   | https://www.yacreader.com
-manga              | 10  | Suwayomi-Server                             | https://github.com/Suwayomi/Suwayomi-Server
+manga              | 00  | YACReader                                   | https://www.yacreader.com
+manga              | 00  | Suwayomi-Server                             | https://github.com/Suwayomi/Suwayomi-Server
 manga,archive      | 10  | mex                                         | https://foosoft.net/projects/mex
 manga,archive      | 10  | To CBZ                                      | https://github.com/italomaia/to-cbz
 manga,convert      | 10  | split-manga-pages                           | https://github.com/christofferaakre/split_manga_pages
@@ -20,10 +20,9 @@ manga,extract      | 10  | Komga Cover Extractor                       | https:/
 manga,ocr          | 00  | mokuro                                      | https://github.com/kha-white/mokuro
 manga,ocr          | 00  | Kamite                                      | https://github.com/fauu/Kamite
 manga,ocr          | 00  | Manga OCR                                   | https://github.com/kha-white/manga-ocr
-manga,ocr          | 10  | Lazy Guide                                  | https://xelieu.github.io/jp-lazy-guide/
 manga,ocr          | 00  | SickZil-Machine                             | https://github.com/KUR-creative/SickZil-Machine
-manga,serve        | 10  | Komga                                       | https://github.com/gotson/komga
-manga,serve        | 10  | Kavita                                      | https://github.com/Kareadita/Kavita
+manga,serve        | 11  | Komga                                       | https://github.com/gotson/komga
+manga,serve        | 00  | Kavita                                      | https://github.com/Kareadita/Kavita
 draw               | 00  | Paint.NET                                   | https://www.getpaint.net
 draw               | 00  | Paint .Net Animation Helper Plugin          | https://pixelbyte.itch.io/paint-net-sprite-plugin
 draw               | 00  | Pixelorama                                  | https://github.com/Orama-Interactive/Pixelorama
@@ -100,7 +99,7 @@ generate,ico       | 00  | Favocon                                     | https:/
 generate,ico       | 00  | faviator                                    | https://github.com/faviator/faviator
 convert            | 11  | XnConvert                                   | https://www.xnview.com/en/xnconvert
 convert            | 00  | NConvert                                    | https://www.xnview.com/en/nconvert
-optimizer          | 11  | YOGA Image Optimizer                        | https://github.com/flozz/yoga-image-optimizer
+optimizer          | 00  | YOGA Image Optimizer                        | https://github.com/flozz/yoga-image-optimizer
 optimizer          | 00  | Guetzli Converter GUI                       | https://www.guetzliconverter.net
 optimizer          | 00  | Pixxia                                      | https://github.com/dhhruv/Pixxia
 optimizer          | 00  | tinifier                                    | https://github.com/tarampampam/tinifier
@@ -111,7 +110,7 @@ optimizer,png      | 00  | pngquant                                    | https:/
 optimizer,svg      | 00  | SVGO                                        | https://github.com/svg/svgo
 optimizer,batch    | 00  | Compress-images                             | https://github.com/Yuriy-Svetlov/compress-images
 optimizer,batch    | 00  | Smally                                      | https://github.com/xinlin-z/smally
-rezise             | 11  | waifu2x - Snowshell                         | https://github.com/YukihoAA/waifu2x_snowshell
+rezise             | 00  | waifu2x - Snowshell                         | https://github.com/YukihoAA/waifu2x_snowshell
 rezise             | 00  | Final2x                                     | https://github.com/Tohrusky/Final2x
 rezise             | 00  | Waifu2x-Extension-GUI                       | https://github.com/AaronFeng753/Waifu2x-Extension-GUI
 rezise             | 00  | Cupscale                                    | https://github.com/n00mkrad/cupscale
@@ -119,20 +118,20 @@ rezise             | 00  | Real-ESRGAN-GUI                             | https:/
 rezise             | 00  | Real-ESRGAN_GUI                             | https://github.com/net2cn/Real-ESRGAN_GUI
 resize,pixel       | 00  | Image Filter Collection                     | https://github.com/Salmakis/ImageFilterCollection
 color              | 00  | posterust                                   | https://github.com/okaneco/posterust
-color              | 01  | Paletter                                    | https://github.com/Baldomo/paletter
+color              | 00  | Paletter                                    | https://github.com/Baldomo/paletter
 color              | 00  | Img2Palette                                 | https://grinnch.itch.io/img2palette
-color              | 01  | ImageTheming                                | https://github.com/daniel-seiler/ImageTheming
-color              | 01  | color-matcher                               | https://github.com/hahnec/color-matcher
+color              | 00  | ImageTheming                                | https://github.com/daniel-seiler/ImageTheming
+color              | 00  | color-matcher                               | https://github.com/hahnec/color-matcher
 color,gui          | 00  | RetroEditor                                 | https://zxretrosoft.itch.io/retroeditor
 color,gui          | 00  | SoftLK-tools                                | https://github.com/Captain4LK/SoftLK-tools
-background         | 11  | Rembg                                       | https://github.com/danielgatis/rembg
-border             | 01  | black_borders                               | https://github.com/westsmith-open/black_borders
+background         | 00  | Rembg                                       | https://github.com/danielgatis/rembg
+border             | 00  | black_borders                               | https://github.com/westsmith-open/black_borders
 light              | 00  | Low-light-Image-Enhancement                 | https://github.com/pvnieo/Low-light-Image-Enhancement
 crop               | 00  | autocrop                                    | https://github.com/leblancfg/autocrop
 cut                | 00  | PosteRazor                                  | https://posterazor.sourceforge.io
 gif                | 00  | Gifski                                      | https://gif.ski
 gif                | 00  | Gifsicle                                    | https://www.lcdf.org/gifsicle
-gif                | 10  | ezgif-essentials                            | https://github.com/winstxnhdw/ezgif-essentials
+gif                | 00  | ezgif-essentials                            | https://github.com/winstxnhdw/ezgif-essentials
 2svg               | 00  | AutoTrace                                   | https://github.com/autotrace/autotrace
 2svg               | 00  | Potrace                                     | http://potrace.sourceforge.net
 2pixel             | 00  | Super Pyxelate                              | https://github.com/sedthh/pyxelate
@@ -145,7 +144,7 @@ gif                | 10  | ezgif-essentials                            | https:/
 2png,svg           | 00  | svgexport                                   | https://github.com/shakiba/svgexport
 2png,gif           | 00  | Gif2png                                     | https://github.com/dust8/gif2png
 2cur,png           | 00  | png2cur                                     | https://github.com/drahoslove/png2cur
-2ico               | 11  | png-to-ico                                  | https://github.com/steambap/png-to-ico
+2ico               | 10  | png-to-ico                                  | https://github.com/steambap/png-to-ico
 2ico               | 00  | IconPie                                     | https://github.com/lineCode/icon-pie
 geographic         | 00  | QGIS                                        | https://www.qgis.org
 geographic         | 00  | Rasterio                                    | https://github.com/rasterio/rasterio

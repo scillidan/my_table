@@ -35,10 +35,10 @@ npm        | 00  | NVM for Windows                  | https://github.com/coreybu
 npm        | 11  | pnpm                             | https://pnpm.io
 npm        | 00  | yarn                             | https://yarnpkg.com
 npm        | 00  | yrm                              | https://github.com/i5ting/yrm
-npm        | 10  | npms-cli                         | https://github.com/npms-io/npms-cli
+npm        | 11  | npms-cli                         | https://github.com/npms-io/npms-cli
 py         | 11  | python                           | https://www.python.org
-py         | 01  | Rye                              | https://github.com/mitsuhiko/rye
-py         | 10  | pip_search                       | https://github.com/victorgarric/pip_search
+py         | 00  | Rye                              | https://github.com/mitsuhiko/rye
+py         | 11  | pip_search                       | https://github.com/victorgarric/pip_search
 go         | 11  | go                               | https://go.dev
 go         | 11  | gvm                              | https://github.com/danielkermode/gvm
 go         | 00  | gopicker                         | https://github.com/edifierx666/gopicker
@@ -58,9 +58,9 @@ ssh        | 00  | electerm                         | https://electerm.github.io
 ssh        | 00  | MobaXterm                        | https://mobaxterm.mobatek.net
 ftp,gui    | 00  | WinSCP                           | https://winscp.net
 ftp,gui    | 00  | Core FTP                         | http://www.coreftp.com
-ftp,tui    | 01  | Termscp                          | https://github.com/veeso/termscp
+ftp,tui    | 00  | Termscp                          | https://github.com/veeso/termscp
 ftp        | 00  | lftp                             | https://nwgat.ninja/lftp-for-windows
-sshfs      | 01  | SiriKali                         | https://mhogomchungu.github.io/sirikali
+sshfs      | 00  | SiriKali                         | https://mhogomchungu.github.io/sirikali
 sshfs      | 00  | SSHFS-Win Manager                | https://github.com/evsar3/sshfs-win-manager
 sshfs      | 00  | SSHFS-Win                        | https://github.com/winfsp/sshfs-win
 vnc        | 00  | TightVNC                         | https://tightvnc.com

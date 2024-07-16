@@ -4,10 +4,12 @@ source      | 00  | Vim                  | https://www.vim.org
 config      | 00  | Wim                  | https://github.com/wolandark/wim
 save        | 00  | vim-easysession      | https://github.com/jamescherti/vim-easysession
 plug-manage | 00  | vim-packix           | https://github.com/halostatue/vim-packix
+proj        | 00  | vim-project          | https://github.com/leafOfTree/vim-project
 map         | 00  | vim-repeat           | https://github.com/tpope/vim-repeat
 status-line | 00  | taghelper.vim        | https://github.com/mgedmin/taghelper.vim
 highlight   | 00  | vim-interestingwords | https://github.com/lfv89/vim-interestingwords
 cursor      | 00  | autocursor.vim       | https://github.com/yukimemi/autocursor.vim
+bracket     | 00  | Auto Pairs           | https://github.com/jiangmiao/auto-pairs
 grammar     | 00  | vim-grammarous       | https://github.com/rhysd/vim-grammarous
 grammar     | 00  | vim-LanguageTool     | https://github.com/dpelle/vim-LanguageTool
 select      | 00  | vim-visual-multi     | https://github.com/mg979/vim-visual-multi
@@ -33,6 +35,7 @@ write       | 00  | goyo.vim             | https://github.com/junegunn/goyo.vim
 wiki        | 00  | mediawiki.vim        | https://github.com/chikamichi/mediawiki.vim
 wiki        | 00  | vim-mediawiki-editor | https://github.com/aquach/vim-mediawiki-editor
 wiki        | 00  | vim-zim              | https://github.com/jakykong/vim-zim
+wiki        | 00  | wiki.vim             | https://github.com/lervag/wiki.vim
 dictionary  | 00  | goldendict.vim       | https://github.com/jiazhoulvke/goldendict.vim
 dictionary  | 00  | vimdict              | https://github.com/koonix/vimdict
 dictionary  | 00  | victionary           | https://github.com/farconics/victionary
