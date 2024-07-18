@@ -1,12 +1,5 @@
 group         | tag | title                                        | url
 :-            | :-  | :-                                           | :-
-dotfiles      | 11  | @fathulfahmy                                 | https://github.com/fathulfahmy/dotfiles-linux
-dotfiles      | 00  | Arch linux installation guide                | https://github.com/arcbjorn/arc-arch-linux-installation-guide
-dotfiles      | 00  | @Fluffy-Bean                                 | https://github.com/Fluffy-Bean/dots
-dotfiles      | 00  | @diffficult                                  | https://github.com/diffficult/dotfiles_220
-dotfiles      | 00  | @bibjaw99                                    | https://github.com/bibjaw99/workstation
-dotfiles      | 00  | @qxb3                                        | https://github.com/qxb3/gruvbox.hypr/tree/vim_styled?tab=readme-ov-file
-dotfiles      | 00  | Material-Original gtk theme                  | https://github.com/Macintosh98/Material-Original
 music         | 001 | Audio Reactive LED Strip                     | https://github.com/scottlawsonbc/audio-reactive-led-strip
 music         | 00  | Navidrome                                    | https://github.com/navidrome/navidrome
 music         | 10  | termusic                                     | https://github.com/tramhao/termusic
@@ -52,8 +45,6 @@ cam           | 001 | VidGear                                      | https://git
 cam           | 001 | Norfair                                      | https://github.com/tryolabs/norfair
 cam           | 001 | Argos                                        | https://github.com/angadsingh/argos
 cam           | 001 | Frigate                                      | https://github.com/blakeblackshear/frigate
-keyboard      | 00  | rafaelromao's keyboard layout                | https://github.com/rafaelromao/keyboards
-keyboard      | 00  | kbd-audio                                    | https://github.com/ggerganov/kbd-audio
 audio         | 00  | Whishper                                     | https://github.com/pluja/whishper
 bot           | 00  | RoboRoach                                    | https://github.com/BackyardBrains/RoboRoach
 drone         | 00  | ODM                                          | https://github.com/OpenDroneMap/ODM
@@ -94,12 +85,6 @@ game          | 00  | Lakka                                        | https://www
 game          | 00  | RetroPie-Setup                               | https://github.com/RetroPie/RetroPie-Setup
 wine          | 00  | Photoshop CC v19 installer for Linux         | https://github.com/Gictorbit/photoshopCClinux
 ai            | 00  | Pi-C.A.R.D                                   | https://github.com/nkasmanoff/pi-card
-ucon          | 00  | uConsole                                     | https://github.com/clockworkpi/uConsole
-ucon,device   | 00  | μPico                                        | https://github.com/dotcypress/upico
-ucon,device   | 00  | μHub                                         | https://github.com/dotcypress/uhub
-ucon,os       | 00  | PostmarketOS - uConsole CM4                  | https://forum.clockworkpi.com/t/postmarketos-uconsole-cm4/12458
-ucon,sway     | 00  | uConsole Sway Configuration                  | https://github.com/emdash/uConsole_sway_config
-ucon,i3       | 00  | Uconsole-i3                                  | https://github.com/dzaczek/Uconsole-i3
 cb1,source    | 00  | CB1                                          | https://github.com/bigtreetech/CB1
 cb1,setup     | 00  | CB1-setup                                    | https://github.com/ToyVo/CB1-setup
 cb1,setup     | 00  | Debian Build for Biqu/BTT CB1                | https://github.com/freakydude/cb1-os-build
@@ -110,8 +95,4 @@ cb1,os        | 00  | RatOS-on-CB1                                 | https://git
 cb1,nas       | 00  | openmediavault                               | https://github.com/openmediavault/openmediavault
 cb1,nas       | 00  | OMV-Extras                                   | https://wiki.omv-extras.org/
 cb1,driver    | 11  | LCD-show-retropie                            | https://github.com/lcdwiki/LCD-show-retropie
-steamdesk     | 00  | RetroDECK                                    | https://github.com/XargonWan/RetroDECK
-steamdesk     | 00  | EmuDeck                                      | https://github.com/dragoonDorise/EmuDeck
-switch,player | 00  | NXMP                                         | https://github.com/proconsule/nxmp
-switch        | 00  | Atmosphère                                   | https://github.com/Atmosphere-NX/Atmosphere
 ubuntu        | 00  | bbb-install                                  | https://github.com/bigbluebutton/bbb-install

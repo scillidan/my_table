@@ -1,5 +1,13 @@
 group       | tag | title                                      | url
 :-          | :-  | :-                                         | :-
+dotfiles    | 01  | ArchSway                                   | https://github.com/Ultra-Code/archsway
+dotfiles    | 11  | @fathulfahmy                               | https://github.com/fathulfahmy/dotfiles-linux
+dotfiles    | 00  | Arch linux installation guide              | https://github.com/arcbjorn/arc-arch-linux-installation-guide
+dotfiles    | 00  | @Fluffy-Bean                               | https://github.com/Fluffy-Bean/dots
+dotfiles    | 00  | @diffficult                                | https://github.com/diffficult/dotfiles_220
+dotfiles    | 00  | @bibjaw99                                  | https://github.com/bibjaw99/workstation
+dotfiles    | 00  | @qxb3                                      | https://github.com/qxb3/gruvbox.hypr/tree/vim_styled?tab=readme-ov-file
+dotfiles    | 00  | Material-Original gtk theme                | https://github.com/Macintosh98/Material-Original
 image       | 10  | Gwenview                                   | https://apps.kde.org/zh-cn/gwenview
 screenshot  | 10  | Flameshot                                  | https://github.com/flameshot-org/flameshot
 screensaver | 00  | gnome-shell-extension-caffeine             | https://github.com/eonpatapon/gnome-shell-extension-caffeine

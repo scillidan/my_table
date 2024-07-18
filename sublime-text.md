@@ -71,6 +71,7 @@ filterpipe      | 00  | Regex Escape                            | https://github
 filterpipe      | 00  | ConvertChineseCharacters                | https://github.com/leibnizli/ConvertChineseCharacters
 filterpipe      | 11  | ConvertFullHalfWidth                    | https://github.com/naoyukik/SublimeConvertFullHalfWidth
 filterpipe      | 11  | ChineseOpenConvert                      | https://github.com/rexdf/SublimeChineseConvert
+filterpipe      | 00  | Fanhuaji                                | https://github.com/Fanhuaji/Sublime-Fanhuaji
 filterpipe      | 11  | Color Convert                           | https://github.com/zhouyuexie/ColorConvert
 filterpipe      | 00  | DataConverter                           | https://github.com/fitnr/SublimeDataConverter
 filterpipe      | 00  | \-                                      | https://github.com/vsc-cnst/SublimeTextFileFilter

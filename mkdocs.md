@@ -26,8 +26,8 @@ link       | 11  | MkDocs Site URLs Plugin                                | http
 link       | 00  | Alternate Link                                         | https://github.com/cmitu/mkdocs-altlink-plugin
 link       | 11  | MkDocs - Open in a new tab plugin                      | https://github.com/JakubAndrysek/mkdocs-open-in-new-tab
 link       | 00  | mkdocs-redirects                                       | https://github.com/mkdocs/mkdocs-redirects
-link       | 00  | mkdocs-link-favicon 																    | https://github.com/christophdebaene/mkdocs-link-favicon
-link       | 00  | Link Embeds Plugin: mkdocs 						                | https://github.com/Aetherinox/mkdocs-link-embeds
+link       | 00  | mkdocs-link-favicon 																                   | https://github.com/christophdebaene/mkdocs-link-favicon
+link       | 00  | Link Embeds Plugin: mkdocs 						                      | https://github.com/Aetherinox/mkdocs-link-embeds
 admonition | 00  | markdown-callouts                                      | https://github.com/oprypin/markdown-callouts
 admonition | 00  | GitHub Admonitions for MkDocs                          | https://github.com/PGijsbers/admonitions
 synax      | 00  | mkdocs-callouts                                        | https://github.com/sondregronas/mkdocs-callouts
@@ -102,6 +102,7 @@ tool       | 00  | MkDocs RSS plugin                                      | http
 tool       | 00  | MkDocs static i18n plugin                              | https://github.com/ultrabug/mkdocs-static-i18n
 tool       | 00  | mkdocs-minify-html-plugin                              | https://github.com/monosans/mkdocs-minify-html-plugi
 class      | 00  | MkDocs Quiz Plugin                                     | https://github.com/skyface753/mkdocs-quiz
+python     | 00  | mkdocs-python-classy                                   | https://github.com/itdependsnetworks/mkdocs-python-classy
 dev        | 00  | MkNodes                                                | https://github.com/phil65/mkdocs_mknodes
 dev        | 00  | mkdocs + iolanta                                       | https://github.com/iolanta-tech/mkdocs-iolanta
 dev        | 00  | mkdocs-gen-files                                       | https://github.com/oprypin/mkdocs-gen-files

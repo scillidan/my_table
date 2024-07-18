@@ -120,6 +120,7 @@ input            | global              | 001 | mpv-pointer-event                
 input            | global              | 00  | mpv-touch-gestures                            | https://github.com/christoph-heinrich/mpv-touch-gestures
 play,built-in    | video               | 11  | ontop-playback.lua                            | https://github.com/mpv-player/mpv
 play,built-in    | video               | 00  | pause-when-minimize.lua                       | https://github.com/mpv-player/mpv
+play             | video               | 00  | multi-video                                   | https://github.com/ostr00000/multi-video
 play             | video               | 00  | mpv-ontop-window                              | https://github.com/wishyu/mpv-ontop-window
 play             | video               | 01  | autoloop.lua                                  | https://github.com/zc62/mpv-scripts
 play             | video               | 01  | exit-fullscreen.lua                           | https://github.com/zc62/mpv-scripts
@@ -128,6 +129,7 @@ play             | video               | 11  | mpv-nextfile                     
 play             | video               | 00  | lats.lua                                      | https://github.com/AN3223/dotfiles
 play,3rd         | music               | 00  | Retro                                         | https://github.com/Malwarize/retro
 pause            | video               | 00  | blackout.lua                                  | https://github.com/sibwaf/mpv-scripts
+explorer         | video               | 00  | mbrowser                                      | https://github.com/arjanverkerk/mbrowser
 playlist         | video               | 00  | MPV Watch Later OSD Menu                      | https://github.com/JKubovy/MPV-Watch-Later-OSD-Menu
 playlist         | video               | 00  | MPV unseen-playlistmaker                      | https://github.com/jonniek/unseen-playlistmaker
 playlist         | video               | 00  | autoload                                      | https://github.com/gaesa/mpv-autoload
@@ -272,8 +274,10 @@ arch,control     | \-                  | 00  | mpv-mpris                        
 arch,file        | music               | 00  | mpv-playlist-kdialog.lua                      | https://gist.github.com/ftk/5e26656a2ec9a6cb0fef46918f741d0a
 arch,status      | music               | 00  | mpv-xfce-genmonify                            | https://github.com/budRich/mpv-xfce-genmonify
 arch,notify      | music               | 00  | mpv-notify                                    | https://github.com/mpv-notify/mpv-notify
+arch,notify      | \-                  | 00  | mpv-notify-send                               | https://github.com/Parranoh/mpv-notify-send
 arch,pdf         | manga               | 001 | mpv-pdf                                       | https://github.com/jgreco/mpv-pdf
 arch,i3          | global              | 00  | mpv-i3-floating-centered                      | https://github.com/mdnghtman/mpv-i3-floating-centered
 arch,device      | global              | 00  | Auto mpv A-V delay on bluetooth device        | https://github.com/fatihkaan22/mpv-bluetooth-av-delay
 arch,wallpaper   | \-                  | 00  | mpvpaper                                      | https://github.com/GhostNaN/mpvpaper
 arch,wallpaper   | \-                  | 00  | mpv-loop-until                                | https://github.com/ZreXoc/mpv-loop-until
+ shader | video | 00| Retro console shaders for MPV| https://github.com/hhirtz/mpv-retro-shaders

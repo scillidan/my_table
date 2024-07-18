@@ -54,3 +54,4 @@ todo       | 00  | Time Recorder                  | https://github.com/5hir0kur0
 style      | 00  | Logseq Refile                  | https://github.com/meain/logseq-plugin-refile
 sytle      | 11  | Hide Everything                | https://github.com/ahonn/logseq-plugin-hide-everything
 theme      | 11  | miA theme                      | https://github.com/playerofgames/logseq-mia-theme
+toc        | 01  | \-                             | https://github.com/benjypng/logseq-toc-plugin

@@ -22,6 +22,7 @@ order          | 00  | FSRS4Anki Helper                             | https://gi
 order          | 001 | AnnA : Anki neuronal Appendix                | https://github.com/thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix/
 field          | 001 | anki-field-autocomplete                      | https://github.com/AnKing-VIP/anki-field-autocomplete
 field          | 00  | FrequencyMan                                 | https://github.com/Rct567/FrequencyMan
+choice | 00 | Anki-Multiple-Choice | https://github.com/ale18V/Anki-Multiple-Choice
 frequency      | 00  | Bulk Generate Japanese Vocab Frequency       | https://github.com/christopher-chandler/bulk_generate_japanese_vocab_frequency
 sound          | 00  | adjust-sound-volume                          | https://github.com/mnogu/adjust-sound-volume
 sound          | 00  | Generate Batch Audio                         | https://github.com/DillonWall/generate-batch-audio-anki-addon
@@ -43,12 +44,12 @@ convert,dev    | 00  | yanki                                        | https://gi
 export         | 00  | anki-export-as-picture                       | https://github.com/hienstorfer/anki-export-as-picture
 text           | 001 | Anki Word Hyphenator                         | https://github.com/gregorias/anki-word-hyphenator
 image          | 001 | AJT Media Converter                          | https://github.com/Ajatt-Tools/PasteImagesAsWebP
-image          | 001 | Anki Image Scaler                            | https://github.com/gregorias/anki-image-scaler
+
 stroke-diagram | 00  | anki-kanji                                   | https://github.com/bzhoek/anki-kanji
 mark           | 00  | Pass/Fail 2                                  | https://github.com/lambdadog/passfail2
 mark           | 00  | Exam Notifier for Anki                       | https://github.com/AnKing-VIP/exam-notifierd
 scrap          | 00  | web-scraping-for-sentence-mining             | https://github.com/AtilioA/web-scraping-for-sentence-mining
-analyze        | 00  | AnkiPandas                                   | https://github.com/klieret/AnkiPandas
+
 analyze        | 00  | Anki History Visualization                   | https://github.com/xiety/AnkiHistoryVisualization
 analyze        | 00  | Search Stats Extended                        | https://github.com/Luc-Mcgrady/Anki-Search-Stats-Extended
 textograph     | 001 | Anki Note Type for Textograph                | https://github.com/textograph/anki-note-type

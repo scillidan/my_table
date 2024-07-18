@@ -16,3 +16,4 @@ mpd        | 00  | clerk                      | https://github.com/carnager/cler
 calc       | 11  | rofi-calc                  | https://github.com/svenstaro/rofi-calc
 mount      | 00  | udiskie-dmenu              | https://github.com/fogine/udiskie-dmenu
 network    | 00  | rofi-network-manager       | https://github.com/P3rf/rofi-network-manager
+youtube    | 00  | ytdl-mpv                   | https://github.com/andros21/ytdl-mpv
