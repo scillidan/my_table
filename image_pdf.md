@@ -14,7 +14,7 @@ metadata     | 00  | Info                 | https://github.com/xlcnd/isbntools
 editor,epub  | 00  | Sigil                | https://sigil-ebook.com
 editor,epub  | 00  | Sigil-plugins        | https://www.mobileread.com/forums/showthread.php?t=247431
 printer      | 00  | WinScan2PDF          | https://www.softwareok.com/?seite=Microsoft/WinScan2PDF
-printer      | 00  | clawPDF              | https://github.com/clawsoftware/clawPDF
+printer      | 11  | clawPDF              | https://github.com/clawsoftware/clawPDF
 page         | 00  | PDF Arranger         | https://github.com/pdfarranger/pdfarranger
 page         | 00  | PDFStitcher          | https://github.com/cfcurtis/pdfstitcher
 toc          | 00  | pdf.tocgen           | https://github.com/Krasjet/pdf.tocgen
