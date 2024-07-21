@@ -44,7 +44,7 @@ resize           | 00  | Video2X                                  | https://gith
 interpolate      | 00  | Flowframes                               | https://github.com/n00mkrad/flowframes
 diff             | 00  | video-compare                            | https://github.com/pixop/video-compare
 subtitle         | 11  | Subtitle Edit                            | https://nikse.dk/subtitleedit
-subtitle         | 11  | Aegisub                                  | https://aegi.vmoe.info
+subtitle         | 11  | Aegisub                                  | https://github.com/wangqr/Aegisub
 subtitle         | 00  | 字幕共享计划                             | https://github.com/foxofice/sub_share
 subtitle         | 00  | Sbubby                                   | https://github.com/kokseen1/Sbubby
 subtitle,ocr     | 00  | Video-subtitle-extractor                 | https://github.com/YaoFANGUK/video-subtitle-extractor

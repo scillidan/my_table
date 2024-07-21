@@ -14,7 +14,9 @@ tree             | 00  | erdtree                    | https://github.com/solidiq
 tree             | 00  | tree                       | https://github.com/a8m/tree
 tree             | 00  | ki-cli-hyphen              | https://github.com/scillidan/ki-cli-hyphen
 tree             | 00  | Untree                     | https://github.com/codeinred/untree
-rm               | 11  | trash-cli                  | https://github.com/andreafrancia/trash-cli
+rm               | 11  | trashy                     | https://github.com/oberblastmeister/trashy
+rm               | 11  | trash-cli                  | https://github.com/sindresorhus/trash-cli
+rm               | 00  | trash-cli                  | https://github.com/andreafrancia/trash-cli
 rm               | 00  | recycle-bin                | https://github.com/sindresorhus/recycle-bin
 echo             | 11  | echo-cli                   | https://github.com/iamakulov/echo-cli
 cat              | 00  | bat                        | https://github.com/sharkdp/bat
