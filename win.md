@@ -203,7 +203,7 @@ driver               | 00  | Driver Booster                            | https:/
 driver               | 00  | Driver Store Explorer                     | https://github.com/lostindark/DriverStoreExplorer
 disk                 | 00  | Macrium Reflect                           | https://www.macrium.com/reflectfree
 disk                 | 00  | MiniTool Partition Wizard                 | https://www.minitool.com/partition-manager/partition-wizard-home.html
-disk                 | 00  | DiskGenius                                | https://github.com/Kiprey/DiskGeniusCrack
+disk                 | 10  | DiskGenius                                | https://github.com/Kiprey/DiskGeniusCrack
 disk                 | 00  | TreeSize                                  | https://www.jam-software.com/treesize_free
 tray                 | 00  | Traymond                                  | https://github.com/fcFn/traymond
 tray                 | 00  | Tray Weather                              | https://github.com/FelixdelasPozas/TrayWeather
