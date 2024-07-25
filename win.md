@@ -78,7 +78,8 @@ lauch                | 00  | ueli                                      | https:/
 lauch                | 00  | Wox                                       | http://www.wox.one/
 search               | 11  | Everything                                | https://www.voidtools.com
 search               | 11  | EverythingToolbar                         | https://github.com/srwi/EverythingToolbar
-search               | 11  | Listary                                   | https://www.listary.com
+switch               | 00  | Listary                                   | https://www.listary.com
+switch               | 11  | QuickSwitch                               | https://github.com/gepruts/QuickSwitch
 copy                 | 11  | FastCopy                                  | https://fastcopy.jp/
 copy                 | 00  | Copy Dialog Lunar Lander                  | https://github.com/Sanakan8472/copy-dialog-lunar-lande
 hash                 | 11  | OpenHashTab                               | https://github.com/namazso/OpenHashTab
