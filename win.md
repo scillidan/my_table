@@ -250,3 +250,5 @@ archive              | 11  | 7zip                                      | https:/
 archive              | 00  | Universal Extractor 2                     | https://github.com/Bioruebe/UniExtract2
 tool                 | 00  | OpenArk                                   | https://openark.blackint3.com/
 tool                 | 00  | DevToys                                   | https://devtoys.app/
+tool | 10 | Resource Hacker | https://www.angusj.com/resourcehacker/
+tool | 11 | SDCardFormatter | https://www.sdcard.org/downloads/formatter/

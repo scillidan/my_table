@@ -131,7 +131,7 @@ play,3rd         | music               | 00  | Retro                            
 pause            | video               | 00  | blackout.lua                                  | https://github.com/sibwaf/mpv-scripts
 explorer         | video               | 00  | mbrowser                                      | https://github.com/arjanverkerk/mbrowser
 playlist         | video               | 00  | MPV Watch Later OSD Menu                      | https://github.com/JKubovy/MPV-Watch-Later-OSD-Menu
-playlist         | video               | 00  | MPV unseen-playlistmaker                      | https://github.com/jonniek/unseen-playlistmaker
+playlist         | video               | 11  | MPV unseen-playlistmaker                      | https://github.com/jonniek/unseen-playlistmaker
 playlist         | video               | 00  | autoload                                      | https://github.com/gaesa/mpv-autoload
 playlist         | music               | 10  | save-playlist                                 | https://github.com/naiveinvestigator/save-playlist
 playlist         | music               | 11  | Mpv-Playlistmanager                           | https://github.com/jonniek/mpv-playlistmanager
@@ -149,7 +149,7 @@ radio            | music               | 00  | mpv radio title                  
 remeber          | global              | 11  | remember-volume.lua                           | https://gist.github.com/blackarcher21/162dc1bef708e90082c6c4f9500c1997
 remeber          | global              | 00  | persist-properties                            | https://github.com/d87/mpv-persist-properties
 remeber          | video               | 00  | mpv-volnorm                                   | https://gitlab.com/derobert/mpv-volnorm
-remeber          | music,karaok        | 11  | smart_volume.lua                              | https://github.com/stax76/mpv-scripts
+remeber          | music,karaok        | 11  | average_volume.lua                            | https://github.com/stax76/mpv-scripts
 remeber          | video               | 00  | celebi                                        | https://github.com/po5/celebi
 remeber          | video               | 01  | auto-save-state.lua                           | https://github.com/AN3223/dotfiles
 scale            | video               | 00  | nvidia image scaling                          | https://gist.github.com/agyild/7e8951915b2bf24526a9343d951db214
@@ -211,7 +211,7 @@ subtitle         | video               | 00  | MPV Subtitle Translator          
 subtitle         | video               | 00  | Whisper-mpv                                   | https://github.com/ramkafasi/whisper-mpv
 subtitle         | video               | 00  | mpv-assrt                                     | https://github.com/assrtoss/mpv-assrt
 subtitle         | video               | 00  | mpv-subversive                                | https://github.com/nairyosangha/mpv-subversive
-subtitle         | video               | 00  | mpv-dualsubtitles                             | https://github.com/magnum357i/mpv-dualsubtitles
+subtitle         | video,music               | 11  | mpv-dualsubtitles                             | https://github.com/magnum357i/mpv-dualsubtitles
 subtitle         | video               | 00  | mpv script to mute on specific subtitle words | https://github.com/jtaala/mpv-mute-on-specific-subtitle-words
 subtitle         | video               | 01  | find_subtitles                                | https://github.com/directorscut82/find_subtitles
 subtitle         | video               | 01  | auto-load-fonts.js                            | https://github.com/Hill-98/mpv-config

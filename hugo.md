@@ -45,9 +45,9 @@ mdbook         | 10  | MDBook EPUB Backend        | https://github.com/Michael-F
 mdbook,tool    | 00  | MDBook Link-Check          | https://github.com/Michael-F-Bryan/mdbook-linkcheck
 retype         | 00  | Retype                     | https://retype.com
 retype         | 00  | Retype Build Action        | https://github.com/retypeapp/action-build
-wiki           | 00 | TiddlyWiki                  | https://tiddlywiki.com/
+wiki           | 00  | TiddlyWiki                  | https://tiddlywiki.com/
 wiki           | 00  | Amusewiki                  | https://github.com/melmothx/amusewiki
-preview        | 00  | Markserv                   | https://github.com/markserv/markserv
+preview        | 10  | Markserv                   | https://github.com/markserv/markserv
 preview        | 00  | Markdown Live Preview      | https://github.com/ms-jpq/markdown-live-preview
 preview        | 00  | GoSee                      | https://github.com/jmbaur/gosee
 check          | 00  | lychee                     | https://github.com/lycheeverse/lychee

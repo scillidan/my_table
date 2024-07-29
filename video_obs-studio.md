@@ -9,4 +9,3 @@ input      | 00  | Input Display                   | https://moonspod.itch.io/in
 input      | 11  | Controller Display by Fred Wood | https://thatsmytrunks.itch.io/controllerdisplay
 input      | 11  | NohBoard                        | https://github.com/ThoNohT/NohBoard
 input      | 11  | Carnac                          | https://github.com/Code52/carnac
-source     | 11  | OBS Studio                      | https://obsproject.com

@@ -81,6 +81,7 @@ dns              | 00  | sslip.io                   | https://github.com/cunnie/
 dns              | 00  | CoreDNS                    | https://coredns.io/
 hosts,gui        | 00  | SwitchHosts                | https://github.com/oldj/SwitchHosts
 host             | 00  | HOSTS                      | https://github.com/StevenBlack/hosts
+host             | 11  | HostsFileEditor          | https://github.com/scottlerch/HostsFileEditor
 tool,sh          | 00  | Nushell                    | https://www.nushell.sh
 tool,benchmark   | 00  | hyperfine                  | https://github.com/eckyputrady/ttrack
 math             | 00  | loop                       | https://github.com/Miserlou/Loop
@@ -176,7 +177,7 @@ Sentence         | 00  | Sentences                  | https://github.com/neurosn
 dictionary       | 00  | zdic-cli                   | https://github.com/LingDong-/zdic-cli
 dictionary       | 00  | thes                       | https://github.com/grantshandy/thes
 dictionary,color | 00  | Colorpedia                 | https://github.com/joowani/colorpedia
-dictionary,color | 00  | pastel                     | https://github.com/sharkdp/pastel
+dictionary,color | 10  | pastel                     | https://github.com/sharkdp/pastel
 dictionary,tool  | 00  | PyGlossary                 | https://github.com/ilius/pyglossary
 etymolog         | 00  | ety                        | https://github.com/Calder-Ty/ety
 etymolog         | 00  | etym                       | https://github.com/tetrismegistus/etym

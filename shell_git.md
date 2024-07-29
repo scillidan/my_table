@@ -10,7 +10,7 @@ tui           | 00  | GitUI                        | https://github.com/extrawur
 tui           | 00  | Lazygit                      | https://github.com/jesseduffield/lazygit
 tui           | 00  | git-bug                      | https://github.com/MichaelMure/git-bug
 cli           | 00  | bit                          | https://github.com/chriswalz/bit
-tool          | 00  | pro                          | https://github.com/Wowu/pro
+tool          | 11  | pro                          | https://github.com/Wowu/pro
 tool          | 11  | git-sync                     | https://github.com/simonthum/git-sync
 tool,status   | 11  | mgitstatus                   | https://github.com/fboender/multi-git-status
 tool,user     | 00  | Git Profile Switcher         | https://github.com/TheYkk/git-switcher

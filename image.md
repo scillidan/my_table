@@ -80,7 +80,7 @@ inkscape           | 00  | TexText                                     | https:/
 draw,nes           | 00  | NEXXT                                       | https://frankengraphics.itch.io/nexxt
 draw,tool          | 00  | Paint of Persia                             | https://dunin.itch.io/ptop
 draw,tui           | 00  | cmdpxl                                      | https://github.com/knosmos/cmdpxl
-node-editor        | 01  | chaiNNer                                    | https://github.com/joeyballentine/chaiNNer
+node-editor        | 10  | chaiNNer                                    | https://github.com/joeyballentine/chaiNNer
 node-editor        | 00  | Cascade                                     | https://github.com/ttddee/Cascade
 node-editor        | 00  | Image-Processing-Node-Editor                | https://github.com/Kazuhito00/Image-Processing-Node-Editor
 node-editor,vfx    | 00  | Pixel Composer                              | https://github.com/ttanasart-pt/pixel-composer
@@ -118,7 +118,7 @@ rezise             | 00  | Real-ESRGAN-GUI                             | https:/
 rezise             | 00  | Real-ESRGAN_GUI                             | https://github.com/net2cn/Real-ESRGAN_GUI
 resize,pixel       | 00  | Image Filter Collection                     | https://github.com/Salmakis/ImageFilterCollection
 color              | 00  | posterust                                   | https://github.com/okaneco/posterust
-color              | 00  | Paletter                                    | https://github.com/Baldomo/paletter
+color              | 10  | Paletter                                    | https://github.com/Baldomo/paletter
 color              | 00  | Img2Palette                                 | https://grinnch.itch.io/img2palette
 color              | 00  | ImageTheming                                | https://github.com/daniel-seiler/ImageTheming
 color              | 00  | color-matcher                               | https://github.com/hahnec/color-matcher
