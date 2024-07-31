@@ -121,6 +121,7 @@ format          | 11  | JsPrettier                              | https://github
 format          | 00  | Rome Formatter                          | https://github.com/marekpiechut/sublime-rome-formatter
 format          | 00  | Formatter                               | https://github.com/bitst0rm-pub/Formatter
 format          | 11  | Minify                                  | https://github.com/tssajo/Minify
+diff | 11 |Diffable | https://github.com/yaroslavyaroslav/Diffable
 diff            | 00  | DiffView                                | https://github.com/CJTozer/SublimeDiffView
 api             | 00  | Zeal                                    | https://github.com/SublimeText/Zeal
 api             | 11  | DashDoc                                 | https://github.com/farcaller/DashDoc

@@ -26,7 +26,6 @@ monitor       | 00  | Uptime Kuma                                  | https://git
 track         | 00  | Speedtest Tracker                            | https://github.com/alexjustesen/speedtest-tracker
 network       | 001 | NetBox                                       | https://github.com/netbox-community/netbox
 firewall      | 00  | pfSense                                      | https://github.com/pfsense/pfsense
-wifi          | 001 | WiFi Duck                                    | https://github.com/SpacehuhnTech/WiFiDuck
 weather       | 001 | eink-weather-display                         | https://github.com/kimmobrunfeldt/eink-weather-display
 music         | 001 | SOURC                                        | https://github.com/ffont/source
 phillips-hue  | 00  | hue-tui                                      | https://github.com/channel-42/hue-tui

@@ -48,10 +48,6 @@ itch        | 00  | gui-butler                        | https://github.com/seleb
 itch        | 10  | Itch-Sort-And-Export              | https://github.com/6uhrmittag/Itch-Sort-And-Export
 itch,player | 00  | blamscamp                         | https://github.com/blackle/blamscamp
 itch,player | 00  | Scritch                           | https://github.com/torcado194/scritch-player
-engine      | 00  | Murder                            | https://github.com/isadorasophia/murder
-mini        | 00  | raylib                            | https://github.com/raysan5/raylib
-mini        | 00  | TIC-80                            | https://tic80.com
-mini        | 00  | PICO-8                            | https://www.lexaloffle.com/pico-8.php
 ink         | 00  | inky                              | https://www.inklestudios.com/ink
 ink         | 00  | Catmint                           | https://elliotherriman.itch.io/catmint
 ink         | 00  | Calico                            | https://elliotherriman.itch.io/calico
