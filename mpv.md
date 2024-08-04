@@ -7,7 +7,7 @@ preset           | global              | 00  | easympv                          
 preset           | global              | 00  | mpv-user-data-loader                          | https://github.com/CogentRedTester/mpv-user-data-loader
 preset           | global              | 00  | scripts/tree-profiles.lua                     | https://github.com/fbriere/mpv-scripts
 preset           | global              | 00  | remember-props.lua                            | https://github.com/zenwarr/mpv-config
-progress-bar     | global              | 00  | progressbar                                   | https://github.com/torque/mpv-progressbar
+progress-bar     | global              | 11  | progressbar                                   | https://github.com/torque/mpv-progressbar
 ui               | global              | 00  | mpv-modern-x-compact                          | https://github.com/1-minute-to-midnight/mpv-modern-x-compact
 ui               | global              | 00  | mpv-osc-tethys                                | https://github.com/Zren/mpv-osc-tethys
 ui               | global              | 00  | oscc                                          | https://github.com/0dist/oscc
@@ -21,7 +21,7 @@ track            | global              | 00  | track-list.lua                   
 anime            | stream              | 00  | Keroro                                        | https://github.com/hotsno/keroro
 audio            | video               | 00  | audio-dupe.lua                                | https://gist.github.com/bitingsock/5e9714efff963c9689b0671d68f195ad
 audio            | video               | 00  | mpv-skipsilence                               | https://github.com/ferreum/mpv-skipsilence
-audio            | video               | 10  | mpv-switch-both-audio                         | https://github.com/70sh1/mpv-switch-both-audio
+audio            | video               | 01  | mpv-switch-both-audio                         | https://github.com/70sh1/mpv-switch-both-audio
 audio,skip       | video               | 00  | skippy-mpv                                    | https://github.com/trytriangles/skippy-mpv
 audio,skip       | video               | 00  | ff-silence                                    | https://github.com/mesvam/ff-silence
 audio,skip       | video               | 00  | sub transition                                | https://github.com/Ajatt-Tools/sub-transition
@@ -38,8 +38,8 @@ loop             | edit                | 00  | mpv-multiloop                    
 chapter          | video               | 01  | betterchapters.lua                            | https://gist.github.com/Hakkin/4f978a5c87c31f7fe3ae
 chapter          | video               | 01  | chapter-make-read.lua                         | https://github.com/dyphire/mpv-scripts
 chapter          | edit                | 00  | chapters for mpv                              | https://github.com/mar04/chapters_for_mpv
-chapter          | edit                | 100 | ordered-chapters-playlist.lua                 | https://github.com/cogentredtester/mpv-scripts
-chapter          | video,stream        | 100 | mpv-chapters                                  | https://github.com/zxhzxhz/mpv-chapters
+chapter          | edit                | 01  | ordered-chapters-playlist.lua                 | https://github.com/cogentredtester/mpv-scripts
+chapter          | video,stream        | 01  | mpv-chapters                                  | https://github.com/zxhzxhz/mpv-chapters
 keymap           | global              | 11  | mpv-cheatsheet                                | https://github.com/ento/mpv-cheatsheet
 keymap           | global              | 01  | M-x                                           | https://github.com/Seme4eg/mpv-scripts
 keymap           | global              | 01  | Leader                                        | https://github.com/Seme4eg/mpv-scripts
@@ -64,7 +64,7 @@ cut              | edit                | 00  | videoclip                        
 cut              | edit                | 00  | mpv-video-splice                              | https://github.com/pvpscript/mpv-video-splice
 cut              | edit                | 00  | mpv_slicing_copy                              | https://github.com/snylonue/mpv_slicing_copy
 cut              | edit                | 00  | MPV GIF generator script                      | https://github.com/DanSM-5/mpv-gif-generator
-cut              | edit                | 001 | trim.lua                                      | https://github.com/aerobounce/trim.lua
+cut              | edit                | 01  | trim.lua                                      | https://github.com/aerobounce/trim.lua
 database         | music               | 00  | play-notion                                   | https://github.com/acordier16/play-notion
 console          | global              | 00  | mpv-console-select                            | https://github.com/guidocella/mpv-console-select
 console          | global              | 00  | repl.lua                                      | https://github.com/rossy/mpv-repl
@@ -82,15 +82,15 @@ file,rename      | global              | 00  | mpv-rename                       
 file,move        | global              | 00  | mpv-separator                                 | https://github.com/pvpscript/mpv-separator
 file,delete      | global              | 00  | Reviewing                                     | https://gitlab.com/lvml/mpv-plugin-review
 file,delete      | video               | 11  | delete-file                                   | https://github.com/zenyd/mpv-scripts
-file,delete      | video               | 01  | Rationale                                     | https://github.com/glubsy/mpv-limited-autoload
+
 file             | video               | 00  | Format Filename                               | https://github.com/Hill-98/mpv-config
 file             | video               | 00  | guess-media-title.lua                         | https://github.com/zenwarr/mpv-config
 file             | music               | 00  | music-mode.lua                                | https://github.com/cogentredtester/mpv-scripts
-file             | music               | 001 | writename.lua                                 | https://github.com/paradox460/mpv-scripts
+file             | music               | 01  | writename.lua                                 | https://github.com/paradox460/mpv-scripts
 file,brower      | music,karaok        | 11  | Mpv Filenavigator                             | https://github.com/jonniek/mpv-filenavigator
 file,brower      | music,manga         | 01  | mpv-file-browser                              | https://github.com/CogentRedTester/mpv-file-browser
 file,info        | video               | 00  | editions-notification.lua                     | https://github.com/cogentredtester/mpv-scripts
-file,info        | video               | 001 | mpv Change OSD Media Title                    | https://github.com/nmoorthy524/mpv-Change-OSD-Media-Title
+file,info        | video               | 01  | mpv Change OSD Media Title                    | https://github.com/nmoorthy524/mpv-Change-OSD-Media-Title
 file             | edit                | 00  | mpv-webp-generator for windows                | https://github.com/ekisu/mpv-webm
 lyric            | music               | 00  | load lrc files                                | https://unix.stackexchange.com/questions/510422/play-lyrics-automatically-with-mpv
 lyric            | music               | 01  | mpv-lrc                                       | https://github.com/guidocella/mpv-lrc
@@ -108,7 +108,6 @@ image            | manga               | 00  | gallery-dl-view                  
 image            | manga               | 11  | mpv-image-viewer                              | https://github.com/occivink/mpv-image-viewer
 image            | manga               | 01  | mpv-image-config                              | https://github.com/guidocella/mpv-image-config
 image            | manga               | 11  | mpv-manga-reader                              | https://github.com/dudemanguy/mpv-manga-reader
-image            | manga               | 01  | mpv-image-config                              | https://github.com/guidocella/mpv-image-config
 info             | global              | 01  | Metadata OSD script for mpv player            | https://github.com/vc-01/metadata-osd
 info             | video               | 00  | gpufreq                                       | https://github.com/CounterPillow/mpv-gpufreq
 info             | video,karaok        | 00  | misc.lua                                      | https://github.com/stax76/mpv-scripts
@@ -116,7 +115,7 @@ info             | edit                | 00  | speed.lua                        
 info             | edit                | 00  | Serkio Tagger                                 | https://github.com/SerkioTeam/Tagger
 input            | global              | 00  | mpv-user-input                                | https://github.com/cogentredtester/mpv-user-input
 input            | global              | 11  | InputEvent                                    | https://github.com/natural-harmonia-gropius/input-event
-input            | global              | 001 | mpv-pointer-event                             | https://github.com/christoph-heinrich/mpv-pointer-event
+input            | global              | 01  | mpv-pointer-event                             | https://github.com/christoph-heinrich/mpv-pointer-event
 input            | global              | 00  | mpv-touch-gestures                            | https://github.com/christoph-heinrich/mpv-touch-gestures
 play,built-in    | video               | 11  | ontop-playback.lua                            | https://github.com/mpv-player/mpv
 play,built-in    | video               | 00  | pause-when-minimize.lua                       | https://github.com/mpv-player/mpv
@@ -133,11 +132,11 @@ explorer         | video               | 00  | mbrowser                         
 playlist         | video               | 00  | MPV Watch Later OSD Menu                      | https://github.com/JKubovy/MPV-Watch-Later-OSD-Menu
 playlist         | video               | 11  | MPV unseen-playlistmaker                      | https://github.com/jonniek/unseen-playlistmaker
 playlist         | video               | 00  | autoload                                      | https://github.com/gaesa/mpv-autoload
-playlist         | music               | 10  | save-playlist                                 | https://github.com/naiveinvestigator/save-playlist
+playlist         | music               | 01  | save-playlist                                 | https://github.com/naiveinvestigator/save-playlist
 playlist         | music               | 11  | Mpv-Playlistmanager                           | https://github.com/jonniek/mpv-playlistmanager
 playlist         | music               | 00  | total_playtime.lua                            | https://github.com/oltodosel/mpv-scripts
 playlist,sort    | music               | 01  | mpv_sort_script.lua                           | https://github.com/TheAMM/mpv_sort_script
-playlist,search  | music               | 001 | mpv-slash-search                              | https://codeberg.org/Anakiev/mpv-slash-search
+playlist,search  | music               | 01  | mpv-slash-search                              | https://codeberg.org/Anakiev/mpv-slash-search
 playlist,rewind  | music               | 00  | rewindPlaylist.lua                            | https://gist.github.com/bitingsock/0f22c631295273d5a53e4337c25fe161
 playlist         | stream              | 00  | show-stream-title.lua                         | https://github.com/blue-sky-r/mpv
 time             | edit                | 00  | mpv_segment_length                            | https://github.com/shadax1/mpv_segment_length
@@ -164,30 +163,29 @@ shader           | video               | 11  | hdr toys                         
 shader           | video               | 00  | sview.lua                                     | https://github.com/he2a/mpv-scripts
 shader           | video               | 00  | Plex GLSL Shaders                             | https://github.com/LitCastVlog/Plex-GLSL-Shaders
 shader           | video               | 00  | mpv_shaders                                   | https://github.com/AN3223/dotfiles
-shader           | video               | 01  | Anime4K                                       | https://github.com/bloc97/Anime4K
+shader           | video               | 00  | Anime4K                                       | https://github.com/bloc97/Anime4K
 shader           | video               | 01  | A-Pack                                        | https://github.com/butterw/bShaders
 shader           | video               | 00  | mpv-live-filters                              | https://github.com/hdb/mpv-live-filters
 stream           | stream              | 00  | mpv-selectformat                              | https://github.com/koonix/mpv-selectformat
 stream           | stream              | 00  | mpv2gether                                    | https://github.com/filiprogrammer/mpv2gether
 stream           | stream              | 00  | syncplay-compat                               | https://github.com/cogentredtester/mpv-scripts
-stream           | stream              | 001 | reload.lua                                    | https://github.com/4e6/mpv-reload
+stream           | stream              | 01  | reload.lua                                    | https://github.com/4e6/mpv-reload
 stream           | stream              | 11  | mpv handler                                   | https://github.com/akiirui/mpv-handler
 stream           | stream              | 00  | simulcast-mpv                                 | https://github.com/rtldg/simulcast-mpv
-stream           | stream              | 001 | anilabxmax-mpv-fix                            | https://github.com/trigger337/anilabxmax-mpv-fix
+
 stream           | stream,music,karaok | 11  | reload.lua                                    | https://github.com/sibwaf/mpv-scripts
-stream           | stream              | 001 | copy-timestamp.lua                            | https://github.com/linguisticmind/mpv-scripts
-stream           | stream,music        | 001 | play-with                                     | https://github.com/grmat/play-with
-stream,cache     | stream              | 001 | mpv-plugin-streamcache                        | https://gitlab.com/lvml/mpv-plugin-streamcache
-stream,cache     | stream              | 001 | stopCache.lua                                 | https://gist.github.com/bitingsock/19c3094cc8680bb7b97b09aaf7d11176
+stream           | stream              | 01  | copy-timestamp.lua                            | https://github.com/linguisticmind/mpv-scripts
+stream           | stream,music        | 01  | play-with                                     | https://github.com/grmat/play-with
+stream,cache     | stream              | 01  | mpv-plugin-streamcache                        | https://gitlab.com/lvml/mpv-plugin-streamcache
+stream,cache     | stream              | 01  | stopCache.lua                                 | https://gist.github.com/bitingsock/19c3094cc8680bb7b97b09aaf7d11176
 stream,cache     | stream              | 00  | streamsave.lua                                | https://github.com/sagnac/streamsave
 stream,3rd       | stream              | 00  | multiplex                                     | https://github.com/pojntfx/multiplex
 stream,twitch    | stream              | 00  | mpv twitch chat                               | https://github.com/crendking/mpv-twitch-chat
 stream,twitch    | stream              | 00  | mpv-twitch-chat-irc                           | https://github.com/morrah/mpv-twitch-chat-irc
 stream,twitch    | stream              | 00  | reduce stream cache                           | https://github.com/divout/mpv_reduce_stream_cache
 stream,twitch    | stream              | 00  | twitchpipe                                    | https://github.com/hakkin/twitchpipe
-stream,url       | stream              | 001 | mpv-acestream                                 | https://github.com/Digitalone1/mpv-acestream
-stream,url       | stream              | 001 | mpv-sopcast-hook                              | https://github.com/Akemi/mpv-sopcast-hook
-socket           | stream              | 00  | multisocket.lua                               | https://github.com/AN3223/dotfiles
+stream,url       | stream              | 01  | mpv-acestream                                 | https://github.com/Digitalone1/mpv-acestream
+stream,url       | stream              | 01  | mpv-sopcast-hook                              | https://github.com/Akemi/mpv-sopcast-hook
 social           | stream              | 00  | currently_listening                           | https://github.com/seanbreckenridge/currently_listening
 discord          | stream              | 00  | MPV Discord Rich Presence                     | https://github.com/ryze312/mpv-rpc
 discord          | stream              | 00  | mpv Media Player Discord RPC Integration      | https://github.com/noaione/mpv-discordRPC
@@ -200,8 +198,8 @@ subtitle         | video,music         | 11  | fuzzydir.lua                     
 subtitle         | video,music         | 000 | subdir-loadsubs                               | https://github.com/zsoltiv/mpv-subdir-loadsubs
 subtitle         | video               | 01  | rename-sub                                    | https://github.com/ayghub/rename-sub
 subtitle         | video               | 00  | mpv-sub-select                                | https://github.com/cogentredtester/mpv-sub-select
-subtitle         | video               | 001 | mpv-sub_not_forced_not_sdh                    | https://github.com/pzim-devdata/mpv-scripts
-subtitle         | video               | 001 | restore-subtitles.lua                         | https://github.com/zenwarr/mpv-config
+subtitle         | video               | 01  | mpv-sub_not_forced_not_sdh                    | https://github.com/pzim-devdata/mpv-scripts
+subtitle         | video               | 01  | restore-subtitles.lua                         | https://github.com/zenwarr/mpv-config
 subtitle         | video               | 00  | autoselect-forced-sub                         | https://github.com/pierretom/autoselect-forced-sub
 subtitle         | video               | 01  | sub_export.lua                                | https://github.com/dyphire/mpv-scripts
 subtitle         | video               | 00  | Automatic subtitle downloading                | https://github.com/davidde/mpv-autosub
@@ -211,17 +209,17 @@ subtitle         | video               | 00  | MPV Subtitle Translator          
 subtitle         | video               | 00  | Whisper-mpv                                   | https://github.com/ramkafasi/whisper-mpv
 subtitle         | video               | 00  | mpv-assrt                                     | https://github.com/assrtoss/mpv-assrt
 subtitle         | video               | 00  | mpv-subversive                                | https://github.com/nairyosangha/mpv-subversive
-subtitle         | video,music               | 11  | mpv-dualsubtitles                             | https://github.com/magnum357i/mpv-dualsubtitles
+subtitle         | video,music         | 11  | mpv-dualsubtitles                             | https://github.com/magnum357i/mpv-dualsubtitles
 subtitle         | video               | 00  | mpv script to mute on specific subtitle words | https://github.com/jtaala/mpv-mute-on-specific-subtitle-words
-subtitle         | video               | 01  | find_subtitles                                | https://github.com/directorscut82/find_subtitles
+subtitle         | video               | 11  | find_subtitles                                | https://github.com/directorscut82/find_subtitles
 subtitle         | video               | 01  | auto-load-fonts.js                            | https://github.com/Hill-98/mpv-config
 subtitle         | video               | 01  | PlayPhrase                                    | https://github.com/kelciour/playphrase
 subtitle         | edit                | 11  | mpv-subtitle-lines                            | https://github.com/christoph-heinrich/mpv-subtitle-lines
 subtitle         | edit                | 00  | subtitle-search.lua                           | https://github.com/zenwarr/mpv-config
 subtitle         | edit                | 11  | sub-pause                                     | https://github.com/ben-kerman/mpv-sub-scripts
-subtitle         | edit                | 001 | sub-bilingual.lua                             | https://github.com/kelciour/mpv-scripts
-subtitle         | edit                | 001 | copy-subtitle.lua                             | https://github.com/linguisticmind/mpv-scripts
-subtitle         | edit                | 001 | mpv-copyTime                                  | https://github.com/Arieleg/mpv-copyTime
+subtitle         | edit                | 01  | sub-bilingual.lua                             | https://github.com/kelciour/mpv-scripts
+subtitle         | edit                | 01  | copy-subtitle.lua                             | https://github.com/linguisticmind/mpv-scripts
+subtitle         | edit                | 01  | mpv-copyTime                                  | https://github.com/Arieleg/mpv-copyTime
 subtitle         | edit                | 01  | MPV Subtitle Retimer                          | https://github.com/genfu94/mpv-subtitle-retimer
 subtitle         | edit                | 00  | autosubsync-mpv                               | https://github.com/joaquintorres/autosubsync-mpv
 subtitle         | edit                | 00  | fix-sub-timing.lua                            | https://github.com/wiiaboo/mpv-scripts
@@ -240,7 +238,7 @@ thumb            | video               | 00  | mpv-qthumb                       
 thumb            | video               | 11  | thumbfast                                     | https://github.com/po5/thumbfast
 thumb            | video               | 00  | mpv_thumbnail_script.lua                      | https://github.com/marzzzello/mpv_thumbnail_script
 torrent          | stream              | 11  | webtorrent-mpv-hook                           | https://github.com/mrxdst/webtorrent-mpv-hook
-torrent          | stream,music        | 001 | mpv Torrserver integration                    | https://github.com/kritma/mpv-torrserver
+torrent          | stream,music        | 01  | mpv Torrserver integration                    | https://github.com/kritma/mpv-torrserver
 track-menu       | stream,karaok       | 11  | quality-menu                                  | https://github.com/christoph-heinrich/mpv-quality-menu
 tv               | stream              | 00  | Free TV                                       | https://github.com/free-tv/iptv
 url              | stream              | 11  | appendURL.lua                                 | https://github.com/jonniek/mpv-scripts
@@ -250,14 +248,14 @@ window           | video,music         | 11  | mpv Picture-in-Picture           
 device           | karaok              | 00  | pyktv                                         | https://github.com/quekky/pyktv
 discord          | karaok              | 00  | mpv-discord-karaoke                           | https://github.com/UTD-JLA/mpv-discord-karaoke
 youtube,built-in | stream              | 00  | ytdl_hook.lua                                 | https://github.com/mpv-player/mpv
-youtube          | stream              | 10  | youtube-download                              | https://github.com/cvzi/mpv-youtube-download
-youtube          | stream              | 10  | mpv-ytdlautoformat                            | https://github.com/Samillion/mpv-ytdlautoformat
+youtube          | stream              | 01  | youtube-download                              | https://github.com/cvzi/mpv-youtube-download
+youtube          | stream              | 01  | mpv-ytdlautoformat                            | https://github.com/Samillion/mpv-ytdlautoformat
 youtube          | stream              | 00  | youtube-quality                               | https://github.com/jgreco/mpv-youtube-quality
-youtube          | stream              | 10  | mpv YouTube Search                            | https://github.com/willswats/mpv-youtube-search
+youtube          | stream              | 01  | mpv YouTube Search                            | https://github.com/willswats/mpv-youtube-search
 youtube          | stream              | 00  | mpv-youtube-queue                             | https://github.com/ksyasuda/mpv-youtube-queue
 youtube          | stream              | 00  | WebPlay                                       | https://github.com/Hill-98/mpv-config
-youtube          | stream              | 001 | ytproxy.lua                                   | https://gist.github.com/ftk/253347b2c9a53bbd6087f086970106b6
-youtube          | stream              | 001 | ytdl-preload.lua                              | https://github.com/bitingsock/ytdl-preload
+youtube          | stream              | 01  | ytproxy.lua                                   | https://gist.github.com/ftk/253347b2c9a53bbd6087f086970106b6
+youtube          | stream              | 01  | ytdl-preload.lua                              | https://github.com/bitingsock/ytdl-preload
 youtube,skip     | stream              | 00  | mpv_sponsorblock                              | https://github.com/po5/mpv_sponsorblock
 bili             | stream              | 00  | bdanmaku                                      | https://github.com/UlyssesZh/bdanmaku
 bili             | stream              | 00  | mpv-bilibili-chat                             | https://github.com/chuangzhu/mpv-bilibili-chat
@@ -275,9 +273,9 @@ arch,file        | music               | 00  | mpv-playlist-kdialog.lua         
 arch,status      | music               | 00  | mpv-xfce-genmonify                            | https://github.com/budRich/mpv-xfce-genmonify
 arch,notify      | music               | 00  | mpv-notify                                    | https://github.com/mpv-notify/mpv-notify
 arch,notify      | \-                  | 00  | mpv-notify-send                               | https://github.com/Parranoh/mpv-notify-send
-arch,pdf         | manga               | 001 | mpv-pdf                                       | https://github.com/jgreco/mpv-pdf
+arch,pdf         | manga               | 01  | mpv-pdf                                       | https://github.com/jgreco/mpv-pdf
 arch,i3          | global              | 00  | mpv-i3-floating-centered                      | https://github.com/mdnghtman/mpv-i3-floating-centered
 arch,device      | global              | 00  | Auto mpv A-V delay on bluetooth device        | https://github.com/fatihkaan22/mpv-bluetooth-av-delay
 arch,wallpaper   | \-                  | 00  | mpvpaper                                      | https://github.com/GhostNaN/mpvpaper
 arch,wallpaper   | \-                  | 00  | mpv-loop-until                                | https://github.com/ZreXoc/mpv-loop-until
- shader | video | 00| Retro console shaders for MPV| https://github.com/hhirtz/mpv-retro-shaders
+shader           | video               | 00  | Retro console shaders for MPV                 | https://github.com/hhirtz/mpv-retro-shaders

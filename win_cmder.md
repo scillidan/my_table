@@ -1,33 +1,5 @@
 group      | tag | title                            | url
 :-         | :-  | :-                               | :-
-source     | 11  | Cmder                            | https://cmder.app
-cmder      | 00  | ConEmu                           | https://conemu.github.io
-cmder      | 00  | Clink                            | https://chrisant996.github.io/clink
-cmder      | 00  | clink-completions                | https://github.com/vladimir-kotikov/clink-completions
-cmder      | 11  | FZF integration for Clink        | https://github.com/chrisant996/clink-fzf
-cmder      | 11  | Clink Gizmos                     | https://github.com/chrisant996/clink-gizmos
-cmder      | 11  | z.lua                            | https://github.com/skywind3000/z.lua
-cmder      | 00  | zoxide support for clink         | https://github.com/shunsambongi/clink-zoxide
-cmder      | 00  | HomeClink                        | https://github.com/HeyItsJono/HomeClink
-cmder      | 00  | CheatCompletions                 | https://github.com/HeyItsJono/CheatCompletions
-cmder      | 00  | Starship                         | https://starship.rs
-cmder      | 00  | MSYS2                            | https://www.msys2.org/
-cmder      | 00  | Cygwin                           | https://cygwin.com
-tabby      | 11  | tabby                            | https://tabby.sh
-tabby      | 11  | terminus-title-control           | https://github.com/kbjr/terminus-title-control
-tabby      | 11  | Tabby Quick Restart Plugin       | https://github.com/flkns/tabby-quick-restart
-tabby      | 11  | Tabby search in browser          | https://github.com/composer404/tabby-search-in-browser
-tabby      | 00  | Save Output                      | https://github.com/eugeny/tabby-save-output
-tabby      | 00  | Docker plugin for Tabby Terminal | https://github.com/eugeny/tabby-docker
-tabby      | 00  | tabby-trzsz                      | https://github.com/trzsz/tabby-trzsz
-wezterm    | 00  | Wez's Terminal                   | https://github.com/wez/wezterm
-alacritty  | 11  | Alacritty                        | https://github.com/alacritty/alacritty
-alacritty  | 00  | Alacritty Settings               | https://github.com/jwu/alacritty-settings
-alacritty  | 11  | Alacritty Theme                  | https://github.com/alacritty/alacritty-theme
-msys2      | 00  | Tmux Configuration               | https://github.com/samoshkin/tmux-config
-pwsh       | 00  | Oh My Posh                       | https://github.com/jandedobbeleer/oh-my-posh
-pwsh       | 00  | Terminal-Icons                   | https://github.com/devblackops/Terminal-Icons
-pwsh       | 00  | PoshColor                        | https://github.com/JustABearOz/PoshColor
 npm        | 00  | npm                              | https://nodejs.org/en
 npm        | 00  | nrm                              | https://github.com/Pana/nrm
 npm        | 11  | fnm                              | https://github.com/Schniz/fnm
@@ -52,7 +24,7 @@ ruby       | 00  | frum                             | https://github.com/TaKO8Ki
 lua        | 00  | lua                              | https://www.lua.org
 lua        | 00  | luarocks                         | https://luarocks.org
 lua        | 11  | hererocks                        | https://github.com/luarocks/hererocks
-ssh        | 00  | WinSSHTerm                       | https://winsshterm.blogspot.com
+ssh        | 11  | WinSSHTerm                       | https://winsshterm.blogspot.com
 ssh        | 00  | WindTerm                         | https://github.com/kingToolbox/WindTerm
 ssh        | 00  | electerm                         | https://electerm.github.io/electerm
 ssh        | 00  | MobaXterm                        | https://mobaxterm.mobatek.net

@@ -51,6 +51,7 @@ subtitle,ocr     | 00  | Video-subtitle-extractor                 | https://gith
 subtitle,process | 00  | merge-srt-subtitles                      | https://github.com/malfroid/merge-srt-subtitles
 subtitle,tool    | 00  | Subtitles Cleaner                        | https://github.com/yuvalsol/SubtitlesCleaner
 subtitle,script  | 00  | Subtitle Edit                            | https://github.com/SubtitleEdit/plugins
+subtitle:download:-| 10 | subliminal | https://github.com/Diaoul/subliminal
 synchronize      | 11  | alass                                    | https://github.com/kaegi/alass
 synchronize      | 00  | FFsubsync                                | https://github.com/smacke/ffsubsync
 synchronize      | 00  | Subtitle Speech Synchronizer             | https://github.com/sc0ty/subsync
