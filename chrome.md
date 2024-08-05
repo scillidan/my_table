@@ -29,7 +29,7 @@ bookmark        | 10  | xBrowserSync                      | https://www.xbrowser
 bookmark        | 11  | Read Later                        | https://github.com/willbchang/chrome-read-later
 bookmark        | 00  | Json Bookmarks                    | https://github.com/1nfiniteloop/json-bookmarks
 wallabag        | 01  | wallabag                          | https://github.com/wallabag/wallabag
-wallabag        | 01  | Wallabagger                       | https://github.com/wallabag/wallabagger
+wallabag        | 10  | Wallabagger                       | https://github.com/wallabag/wallabagger
 linkding        | 11  | linkding extension                | https://github.com/sissbruecker/linkding-extension/
 linkding        | 10  | linkding injector                 | https://github.com/fivefold/linkding-injector
 linkding        | 00  | linkding-cli                      | https://github.com/bachya/linkding-cli
