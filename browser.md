@@ -15,10 +15,6 @@ rss,feed   | 00  | MDRSS-TS                    | https://github.com/kindlyfire/m
 rss,tool   | 00  | diffengine                  | https://github.com/DocNow/diffengine
 rss,serve  | 11  | Miniflux 2                  | https://github.com/miniflux/v2
 rss,serve  | 00  | Huginn                      | https://github.com/huginn/huginn
-browser    | 00  | qutebrowser                 | https://www.qutebrowser.org
-browser    | 00  | Catppuccin for qutebrowser  | https://github.com/catppuccin/qutebrowser
-gopher     | 00  | Kristall                    | https://github.com/MasterQ32/kristall
-gopher,tui | 00  | Bombadillo                  | https://bombadillo.colorfield.space/
 download   | 00  | aria2                       | https://aria2.github.io
 download   | 00  | aria2-rpc-conf              | https://github.com/swgrhck/aria2-rpc-conf
 download   | 00  | Persepolis Download Manager | https://persepolisdm.github.io
