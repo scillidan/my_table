@@ -51,7 +51,7 @@ subtitle,ocr     | 00  | Video-subtitle-extractor                 | https://gith
 subtitle,process | 00  | merge-srt-subtitles                      | https://github.com/malfroid/merge-srt-subtitles
 subtitle,tool    | 00  | Subtitles Cleaner                        | https://github.com/yuvalsol/SubtitlesCleaner
 subtitle,script  | 00  | Subtitle Edit                            | https://github.com/SubtitleEdit/plugins
-subtitle:download:-| 10 | subliminal | https://github.com/Diaoul/subliminal
+subtitle:download| 11 | subliminal | https://github.com/Diaoul/subliminal
 synchronize      | 11  | alass                                    | https://github.com/kaegi/alass
 synchronize      | 00  | FFsubsync                                | https://github.com/smacke/ffsubsync
 synchronize      | 00  | Subtitle Speech Synchronizer             | https://github.com/sc0ty/subsync
@@ -69,9 +69,3 @@ transcript       | 00  | AutoSub                                  | https://gith
 2vtt             | 00  | SRT to VTT Command Line                  | https://github.com/nwoltman/srt-to-vtt-cl
 2vtt             | 11  | SRT to VTT Converter                     | https://github.com/nwoltman/srt-to-vtt-converter
 2lrc             | 00  | srt_to_lrc_converter                     | https://github.com/KyrillosAkram/srt_to_lrc_converter
-jellyfin         | 00  | Jellyfin                                 | https://jellyfin.org/
-jellyfin,plugin  | 00  | 3rd-Party Plugins                        | https://jellyfin.org/docs/general/server/plugins/index.html#3rd-party-plugin-repositories
-jellyfin,plugin  | 00  | Jellyfin OpenSubtitles Plugin            | https://github.com/jellyfin/jellyfin-plugin-opensubtitles
-jellyfin,tool    | 00  | Jellyfin MPV Shim                        | https://github.com/jellyfin/jellyfin-mpv-shim
-plex             | 00  | Plex                                     | https://www.plex.tv/
-plex             | 00  | MPV Shim for Plex                        | https://github.com/iwalton3/plex-mpv-shim

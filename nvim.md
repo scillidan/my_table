@@ -1,13 +1,13 @@
 group           | tag | title                                     | url
 :-              | :-: | :-                                        | :-
-source          | 11  | neovim                                    | https://neovim.io
+neovim          | 11  | neovim                                    | https://neovim.io
 gui             | 11  | Neovide                                   | https://github.com/neovide/neovide
 gui             | 00  | Goneovim                                  | https://github.com/akiyosi/goneovim
 gui             | 00  | roarie-commands                           | https://github.com/lalbornoz/roarie-commands.vim
 version         | 00  | Bob                                       | https://github.com/MordechaiHadad/bob
-plug-manage     | 11  | vim-plug                                  | https://github.com/junegunn/vim-plug
-plug-manage     | 00  | rocks.nvim                                | https://github.com/nvim-neorocks/rocks.nvim
-plug-manage     | 00  | activate.nvim                             | https://github.com/roobert/activate.nvim
+pkgm            | 11  | vim-plug                                  | https://github.com/junegunn/vim-plug
+pkgm            | 00  | rocks.nvim                                | https://github.com/nvim-neorocks/rocks.nvim
+pkgm            | 00  | activate.nvim                             | https://github.com/roobert/activate.nvim
 packer          | 00  | packer.nvim                               | https://github.com/wbthomason/packer.nvim
 packer          | 00  | telescope-packer.nvim                     | https://github.com/nvim-telescope/telescope-packer.nvim
 lazy            | 11  | lazy.nvim                                 | https://github.com/folke/lazy.nvim
