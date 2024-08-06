@@ -44,12 +44,10 @@ convert,dev    | 00  | yanki                                        | https://gi
 export         | 00  | anki-export-as-picture                       | https://github.com/hienstorfer/anki-export-as-picture
 text           | 001 | Anki Word Hyphenator                         | https://github.com/gregorias/anki-word-hyphenator
 image          | 001 | AJT Media Converter                          | https://github.com/Ajatt-Tools/PasteImagesAsWebP
-
 stroke-diagram | 00  | anki-kanji                                   | https://github.com/bzhoek/anki-kanji
 mark           | 00  | Pass/Fail 2                                  | https://github.com/lambdadog/passfail2
 mark           | 00  | Exam Notifier for Anki                       | https://github.com/AnKing-VIP/exam-notifierd
 scrap          | 00  | web-scraping-for-sentence-mining             | https://github.com/AtilioA/web-scraping-for-sentence-mining
-
 analyze        | 00  | Anki History Visualization                   | https://github.com/xiety/AnkiHistoryVisualization
 analyze        | 00  | Search Stats Extended                        | https://github.com/Luc-Mcgrady/Anki-Search-Stats-Extended
 textograph     | 001 | Anki Note Type for Textograph                | https://github.com/textograph/anki-note-type

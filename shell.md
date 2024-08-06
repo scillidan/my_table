@@ -121,10 +121,6 @@ fetch            | 00  | onefetch                   | https://github.com/o2sh/on
 fetch            | 00  | winfetch                   | https://github.com/lptstr/winfetch
 fetch            | 00  | Winfetch                   | https://github.com/M4cs/winfetch
 fetch            | 00  | cpufetch                   | https://github.com/Dr-Noob/cpufetch
-record           | 00  | carbon-now-cli             | https://github.com/mixn/carbon-now-cli
-record           | 00  | Silicon                    | https://github.com/Aloxaf/silicon
-record,pwsh      | 00  | PowerSession               | https://github.com/Watfaq/PowerSession
-record,pwsh      | 00  | PowerSession               | https://github.com/Watfaq/PowerSession-rs
 notify           | 00  | BurntToast                 | https://github.com/Windos/BurntToast
 notify           | 00  | WinToast                   | https://github.com/mohabouje/WinToast
 curl             | 00  | Curl                       | https://github.com/curl/curl
