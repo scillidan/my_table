@@ -33,15 +33,8 @@ image            | 00  | Resize image                                           
 clipboard        | 00  | Paste URL from clipboard as .url file                                                            | https://resource.dopus.com/t/paste-url-from-clipboard-as-url-file/44678
 download         | 00  | Download file from clipboard URL directly to folder                                              | https://resource.dopus.com/t/download-file-from-clipboard-url-directly-to-folder/44679
 layout           | 01  | Cycle through Layouts                                                                            | https://resource.dopus.com/t/cycle-through-layouts/51223
-preview          | 00  | MOSViewer                                                                                        | https://github.com/mrfearless/MOSViewer
-preview,3rd      | 00  | QuickLook                                                                                        | https://github.com/QL-Win/QuickLook
-preview,3rd      | 00  | Available Plugins                                                                                | https://github.com/QL-Win/QuickLook/wiki/Available-Plugins
-preview,3rd      | 11  | SVG Viewer Extension for Windows Explorer                                                        | https://github.com/tibold/svg-explorer-extension
-preview,3rd      | 00  | Icaros                                                                                           | https://www.majorgeeks.com/files/details/icaros.html
 torrent          | 00  | Column_TorrentInfo                                                                               | https://resource.dopus.com/t/column-torrentinfo-bt-bdecode-parsing-torrent-file-to-generate-metadata-columns/49741
 cd               | 00  | GoRootArchive (Jump back to the root of an archive)                                              | https://resource.dopus.com/t/gorootarchive-jump-back-to-the-root-of-an-archive/51408
-shell-x          | 11  | Shell-X                                                                                          | https://github.com/oleg-shilo/shell-x
 shell-x          | 00  | VirusTotal CLI                                                                                   | https://github.com/VirusTotal/vt-cli
-context-menu,3rd | 00  | SendTo Menu Editor                                                                               | https://www.sordum.org/10830/sendto-menu-editor-v1-3
 project          | 00  | Current Projects buttons (+hotkeys)                                                              | https://resource.dopus.com/t/current-projects-buttons-hotkeys/48908
 git              | 01  | Open Remote URL for git repositories                                                             | https://resource.dopus.com/t/open-remote-url-for-git-repositories/49447/1
