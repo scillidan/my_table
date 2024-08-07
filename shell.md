@@ -1,6 +1,6 @@
 group            | tag | title                      | url
 :-               | :-  | :-                         | :-
-command          | 00  | The Fuck                   | https://github.com/nvbn/thefuck
+cli:complete:-   | 00  | The Fuck                   | https://github.com/nvbn/thefuck
 command          | 00  | spacer                     | https://github.com/samwho/spacer
 command          | 00  | try                        | https://github.com/binpash/try
 command          | 00  | Typer                      | https://github.com/tiangolo/typer
@@ -157,35 +157,11 @@ color            | 00  | coloro                     | https://github.com/Insolit
 json             | 00  | tv                         | https://github.com/uzimaru0000/tv
 fuction          | 00  | loop                       | https://github.com/mateodelnorte/loop
 fuction          | 00  | retry                      | https://github.com/timofurrer/retry-cmd
-string           | 00  | COOK                       | https://github.com/glitchedgitz/cook
-string           | 00  | sttr                       | https://github.com/abhimanyu003/sttr
-string           | 00  | text-transform-cli         | https://github.com/maxlath/text-transform-cli
-string           | 00  | Python Slugify             | https://github.com/un33k/python-slugify
-string           | 00  | AnyAscii                   | https://github.com/anyascii/anyascii
-string           | 00  | Go OpenCC                  | https://github.com/razonyang/gopencc
-string           | 00  | Vapyrwave                  | https://github.com/jonesmartins/vapyrwave
-string           | 00  | uwuify                     | https://github.com/Daniel-Liu-c0deb0t/uwu
-regex            | 00  | grex                       | https://github.com/pemistahl/grex
-abbreviate       | 00  | abbreviate                 | https://github.com/dnnrly/abbreviate
-abbreviate       | 00  | abbr-cli                   | https://github.com/mhadidg/abbr-cli
-abbreviate       | 00  | wtf-cli                    | https://github.com/haixiangyan/wtf-cli
-Sentence         | 00  | Sentences                  | https://github.com/neurosnap/sentences
-dictionary       | 00  | zdic-cli                   | https://github.com/LingDong-/zdic-cli
-dictionary       | 00  | thes                       | https://github.com/grantshandy/thes
-dictionary,color | 00  | Colorpedia                 | https://github.com/joowani/colorpedia
-dictionary,color | 10  | pastel                     | https://github.com/sharkdp/pastel
-dictionary,tool  | 00  | PyGlossary                 | https://github.com/ilius/pyglossary
 etymolog         | 00  | ety                        | https://github.com/Calder-Ty/ety
 etymolog         | 00  | etym                       | https://github.com/tetrismegistus/etym
 etymolog         | 00  | etymolog                   | https://github.com/uzak/etymolog
 etymolog         | 00  | ety-python                 | https://github.com/jmsv/ety-python
-spell            | 00  | DidYouMean                 | https://github.com/hisbaan/didyoumean
-translate        | 00  | OpenAl Translator          | https://github.com/openai-translator/openai-translator
-translate        | 00  | LunaTranslator             | https://github.com/HIllya51/LunaTranslator
-weather          | 00  | wttr.in                    | https://github.com/chubin/wttr.in
-currency         | 00  | gocash                     | https://github.com/basebandit/gocash
 accounting       | 00  | Transity                   | https://github.com/ad-si/Transity
-gpt              | 00  | shell-gpt                  | https://github.com/TheR1D/shell_gpt
 check            | 00  | word-checker               | https://github.com/houbb/word-checker
 check            | 00  | GuwenBERT                  | https://github.com/Ethan-yt/guwenbert
 font             | 00  | 齊伋體                     | https://github.com/LingDong-/qiji-font
@@ -198,3 +174,4 @@ font             | 11  | Webify                     | https://github.com/anantha
 torrent          | 11  | jsc                        | https://github.com/rodrigo-sys/jsc
 cat              | 00  | chatgptTMXAutoAlign        | https://github.com/sungkhum/chatgptTMXAutoAlign
 download         | 00  | Gopeed                     | https://github.com/GopeedLab/gopeed
+cli:gpt:-              | 00  | shell-gpt                  | https://github.com/TheR1D/shell_gpt
